@@ -1,17 +1,57 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Homework 1
+subtitle:
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+### T1: 
+What is the definition of statistics?
+### T2: 
+What is a dataset? From the observation units to the dataset. Attributes and variables.
+### T3: 
+Find interesting application of statistics in Cybersecurity.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+### Answers:
+### T1: 
+Statistics is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data. 
+(https://en.wikipedia.org/wiki/Statistics)
+Statistic is:
+A Science, although it is not one that uses scientific methods but instead it is a systematic body of knowledge.
+that deals with Data, our objects of interest from which we want to gather informations and draw conclusions through its processing and analysis (reporting and presentation of data are also part of statistics).
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+### T2: 
+Dataset is the result of collocation of data, object of statistical analysis, the set of object you want to describe is statistical population. It can be described as a set of data organized in relational form. It has a tabular structure, where usually each columns represents a variable (also called statistical variable) and each rows corresponds to an observation (also called attribute).
+Attribute is a quality of an object (person, thing, etc.). As an example for a student thare are possible attributes sucj as gender, age, sports etc. A variable is the set of all possible value that an attribute can take.
+Statistics c an be used in different fields of our life. In marketing, statistics include conversion rates, social media metrics. In IT, statistics include bandwidth, network capabilities, and hardware logistics, cybersecurity. In human resources, statistics include employee turnover, employee satisfaction, and average compensation relative to the market.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+### T3: 
+Statistics in Cybersecurity:
+Calculation of cost of cybercrime: [The Cost Of Cybercrime] (https://purplesec.us/resources/cyber-security-statistics/#Cybercrime)
+
+SIEM Statistics: A Security Information and Event Monitoring solution (SIEM) aggregates log and event data from an exponentially-growing number of data sources across the infrastructure (applications, network and endpoint security tools, cloud monitoring tools, identity providers, etc.). This data is then analyzed using predefined threat detection rules and queries to identify suspicious or unauthorized behavior (https://purplesec.us/resources/cyber-security-statistics/#SIEM)
+
+Statistics and Cyber Threat Intelligence: investigating the relationship between two variables, for example, malware and adversary. Correlation in threat intelligence helps identify links between pieces of information.  Conditional probability helps not only understanding your data, but also coming up with actionable insights. Conditional probability looks at two or more dependent events. For example, the probability of a successful exploit of vulnerability X enabling a successful spear phishing attack on company Y. (https://www.threatq.com/statistics-threat-intelligence/)
+
+
+## Applications
+### A1: 
+Create a simple application in C# and VB.NET to play with handlers and to understand syntax differences between them two.
+The proposed solution is in the ZIP file that can be found at [this GitHub link](https://github.com/loris30/StatisticsHomework/).
+
+## Research on app
+### TA1 
+What are the main differences between C# and VB.NET?
+Visual Basic .NET is a high-level programming language that was initially developed in 1991. It was the first programming language that directly supported programming graphical user interfaces using language-supplied objects. It supports all the concepts of an object-oriented such as object, class, encapsulation, etc.
+C# is commonly pronounced as C-sharp. It is the object-oriented programming language that is run on the .NET framework. This language is developed by Microsoft. Various kinds of applications can be easily created by using this language. For example Mobile applications and game development 
+(https://www.geeksforgeeks.org/difference-between-vb-net-and-c-sharp/)
+
+VB uses the keyword Me to refer to the Form object; C#, instead, uses the keyword “this“;
+In conditional statements, VB uses a single equal symbol (=), while C# used the most common double equal symbol (==);
+To concatenate strings, VB net uses the & symbol; C#, instead, uses the + symbol;
+VB doesn’t uses curly brackets, while C# uses them.
+VB uses PascalCase as a naming convention, while C# uses camelCase;
+Whilst C# uses semicolons ; at the end of statements, VB does not.
