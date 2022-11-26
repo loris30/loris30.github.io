@@ -21,7 +21,7 @@ author: Lorenzo Marinelli
 
 navbar-links:
   #About Me: "aboutme"
-  Resources:
+  Homeworks:
     - Homework 1: "https://beautifuljekyll.com"
     - Homework 2: "https://www.markdowntutorial.com/"
     - Homework 3: "https://www.markdowntutorial.com/"
