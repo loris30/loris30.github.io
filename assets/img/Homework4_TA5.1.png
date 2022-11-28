@@ -1,0 +1,1679 @@
+<!DOCTYPE html>
+<!-- saved from url=(0102)https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/ -->
+<html lang="it-IT"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="max-image-preview:large">
+<title>Researches about theory relevant to applications H4 – 1957545</title>
+<link rel="dns-prefetch" href="https://s0.wp.com/">
+<link rel="dns-prefetch" href="https://wordpress.com/">
+<link rel="dns-prefetch" href="https://s.pubmine.com/">
+<link rel="dns-prefetch" href="https://x.bidswitch.net/">
+<link rel="dns-prefetch" href="https://static.criteo.net/">
+<link rel="dns-prefetch" href="https://ib.adnxs.com/">
+<link rel="dns-prefetch" href="https://aax.amazon-adsystem.com/">
+<link rel="dns-prefetch" href="https://bidder.criteo.com/">
+<link rel="dns-prefetch" href="https://cas.criteo.com/">
+<link rel="dns-prefetch" href="https://gum.criteo.com/">
+<link rel="dns-prefetch" href="https://ads.pubmatic.com/">
+<link rel="dns-prefetch" href="https://gads.pubmatic.com/">
+<link rel="dns-prefetch" href="https://tpc.googlesyndication.com/">
+<link rel="dns-prefetch" href="https://ad.doubleclick.net/">
+<link rel="dns-prefetch" href="https://googleads.g.doubleclick.net/">
+<link rel="dns-prefetch" href="https://www.googletagservices.com/">
+<link rel="dns-prefetch" href="https://cdn.switchadhub.com/">
+<link rel="dns-prefetch" href="https://delivery.g.switchadhub.com/">
+<link rel="dns-prefetch" href="https://delivery.swid.switchadhub.com/">
+<link rel="dns-prefetch" href="https://a.teads.tv/">
+<link rel="dns-prefetch" href="https://prebid.media.net/">
+<link rel="dns-prefetch" href="https://adserver-us.adtech.advertising.com/">
+<link rel="dns-prefetch" href="https://fastlane.rubiconproject.com/">
+<link rel="dns-prefetch" href="https://prebid-server.rubiconproject.com/">
+<link rel="dns-prefetch" href="https://hb-api.omnitagjs.com/">
+<link rel="dns-prefetch" href="https://mtrx.go.sonobi.com/">
+<link rel="dns-prefetch" href="https://apex.go.sonobi.com/">
+<link rel="dns-prefetch" href="https://u.openx.net/">
+<link href="https://fonts.gstatic.com/" crossorigin="" rel="preconnect">
+<link rel="alternate" type="application/rss+xml" title="1957545 » Feed" href="https://statisticsfall22.wordpress.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="1957545 » Feed dei commenti" href="https://statisticsfall22.wordpress.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="1957545 » Researches about theory relevant to applications H4 Feed dei commenti" href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/feed/">
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1652185836h&ver=6.1.1-alpha-54812"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script><script src="./Homework4_TA5.1_files/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link crossorigin="anonymous" rel="stylesheet" id="all-css-0-1" href="./Homework4_TA5.1_files/saved_resource(1)" type="text/css" media="all">
+<style id="blockbase_font_faces-inline-css">
+/* cyrillic-ext */
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 300 900;
+	font-display: swap;
+	src: url(https://s0.wp.com/wp-content/themes/pub/blockbase/assets/fonts/rubik/rubik-cyrillic-ext-300-900-italic.woff2) format('woff2');
+	unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 300 900;
+	font-display: swap;
+	src: url(https://s0.wp.com/wp-content/themes/pub/blockbase/assets/fonts/rubik/rubik-cyrillic-300-900-italic.woff2) format('woff2');
+	unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* hebrew */
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 300 900;
+	font-display: swap;
+	src: url(https://s0.wp.com/wp-content/themes/pub/blockbase/assets/fonts/rubik/rubik-hebrew-300-900-italic.woff2) format('woff2');
+	unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+/* latin-ext */
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 300 900;
+	font-display: swap;
+	src: url(https://s0.wp.com/wp-content/themes/pub/blockbase/assets/fonts/rubik/rubik-latin-ext-300-900-italic.woff2) format('woff2');
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 300 900;
+	font-display: swap;
+	src: url(https://s0.wp.com/wp-content/themes/pub/blockbase/assets/fonts/rubik/rubik-300-900-italic.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* cyrillic-ext */
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300 900;
+	font-display: swap;
+	src: url(https://s0.wp.com/wp-content/themes/pub/blockbase/assets/fonts/rubik/rubik-cyrillic-ext-300-900.woff2) format('woff2');
+	unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300 900;
+	font-display: swap;
+	src: url(https://s0.wp.com/wp-content/themes/pub/blockbase/assets/fonts/rubik/rubik-cyrillic-300-900.woff2) format('woff2');
+	unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+/* hebrew */
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300 900;
+	font-display: swap;
+	src: url(https://s0.wp.com/wp-content/themes/pub/blockbase/assets/fonts/rubik/rubik-hebrew-300-900.woff2) format('woff2');
+	unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+/* latin-ext */
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300 900;
+	font-display: swap;
+	src: url(https://s0.wp.com/wp-content/themes/pub/blockbase/assets/fonts/rubik/rubik-latin-ext-300-900.woff2) format('woff2');
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300 900;
+	font-display: swap;
+	src: url(https://s0.wp.com/wp-content/themes/pub/blockbase/assets/fonts/rubik/rubik-300-900.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+<link crossorigin="anonymous" rel="stylesheet" id="all-css-2-1" href="./Homework4_TA5.1_files/saved_resource(2)" type="text/css" media="all">
+<style id="wp-block-site-title-inline-css">
+.wp-block-site-title a{color:inherit}
+.wp-block-site-title{font-size: var(--wp--custom--font-size--normal);font-weight: normal;text-transform: uppercase;}
+.wp-block-site-title a:where(:not(.wp-element-button)){text-decoration: none;}
+.wp-block-site-title a:where(:not(.wp-element-button)):hover{text-decoration: underline;}
+</style>
+<style id="wp-block-site-tagline-inline-css">
+.wp-block-site-tagline{font-size: var(--wp--custom--font-sizes--x-small);}
+</style>
+<style id="wp-block-group-inline-css">
+.wp-block-group{box-sizing:border-box}
+</style>
+<style id="wp-block-spacer-inline-css">
+.wp-block-spacer{clear:both}
+</style>
+<style id="wp-block-post-title-inline-css">
+.wp-block-post-title{box-sizing:border-box;word-break:break-word}.wp-block-post-title a{display:inline-block}
+.wp-block-post-title{font-size: min(max(3rem, 7vw), 4rem);font-weight: var(--wp--custom--heading--typography--font-weight);line-height: 1.2;margin-bottom: 0;}
+</style>
+<style id="wp-block-post-featured-image-inline-css">
+.wp-block-post-featured-image{margin-left:0;margin-right:0}.wp-block-post-featured-image a{display:block}.wp-block-post-featured-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom;width:100%}.wp-block-post-featured-image.alignfull img,.wp-block-post-featured-image.alignwide img{width:100%}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim{background-color:#000;inset:0;position:absolute}.wp-block-post-featured-image{position:relative}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-gradient{background-color:initial}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-0{opacity:0}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-10{opacity:.1}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-20{opacity:.2}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-30{opacity:.3}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-40{opacity:.4}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-50{opacity:.5}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-60{opacity:.6}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-70{opacity:.7}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-80{opacity:.8}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-90{opacity:.9}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-100{opacity:1}
+</style>
+<style id="wp-block-heading-inline-css">
+h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-background,h6.has-background{padding:1.25em 2.375em}
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}p.has-background{padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}
+</style>
+<style id="wp-block-code-inline-css">
+.wp-block-code{box-sizing:border-box}.wp-block-code code{display:block;font-family:inherit;overflow-wrap:break-word;white-space:pre-wrap}
+.wp-block-code{background-color: var(--wp--custom--color--tertiary);border-radius: 0px;border-color: #CCCCCC;border-width: 0px;border-style: solid;font-family: monospace;font-size: var(--wp--custom--font-size--normal);font-weight: 400;line-height: 1.6;padding-top: var(--wp--custom--gap--vertical);padding-right: var(--wp--custom--gap--horizontal);padding-bottom: var(--wp--custom--gap--vertical);padding-left: var(--wp--custom--gap--horizontal);}
+</style>
+<style id="wp-block-list-inline-css">
+ol,ul{box-sizing:border-box}ol.has-background,ul.has-background{padding:1.25em 2.375em}
+ol,ul{padding-left: calc( 2 * var(--wp--custom--gap--horizontal) );}
+</style>
+<style id="wp-block-columns-inline-css">
+.wp-block-columns{align-items:normal!important;box-sizing:border-box;display:flex;flex-wrap:wrap!important;margin-bottom:1.75em}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+</style>
+<style id="wp-block-post-author-inline-css">
+.wp-block-post-author{display:flex;flex-wrap:wrap}.wp-block-post-author__byline{font-size:.5em;margin-bottom:0;margin-top:0;width:100%}.wp-block-post-author__avatar{margin-right:1em}.wp-block-post-author__bio{font-size:.7em;margin-bottom:.7em}.wp-block-post-author__content{flex-basis:0;flex-grow:1}.wp-block-post-author__name{margin:0}
+</style>
+<style id="wp-block-post-date-inline-css">
+.wp-block-post-date{box-sizing:border-box}
+.wp-block-post-date{color: var(--wp--custom--color--foreground);font-size: var(--wp--preset--font-size--small);}
+</style>
+<style id="wp-block-post-terms-inline-css">
+.wp-block-post-terms{box-sizing:border-box}.wp-block-post-terms .wp-block-post-terms__separator{white-space:pre-wrap}
+</style>
+<style id="wp-block-post-navigation-link-inline-css">
+.wp-block-post-navigation-link .wp-block-post-navigation-link__arrow-previous{display:inline-block;margin-right:1ch}.wp-block-post-navigation-link .wp-block-post-navigation-link__arrow-previous:not(.is-arrow-chevron){transform:scaleX(1)}.wp-block-post-navigation-link .wp-block-post-navigation-link__arrow-next{display:inline-block;margin-left:1ch}.wp-block-post-navigation-link .wp-block-post-navigation-link__arrow-next:not(.is-arrow-chevron){transform:scaleX(1)}
+</style>
+<style id="wp-block-buttons-inline-css">
+.wp-block-buttons.is-vertical{flex-direction:column}.wp-block-buttons.is-vertical>.wp-block-button:last-child{margin-bottom:0}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-left{justify-content:flex-start}.wp-block-buttons.is-content-justification-left.is-vertical{align-items:flex-start}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons.is-content-justification-center.is-vertical{align-items:center}.wp-block-buttons.is-content-justification-right{justify-content:flex-end}.wp-block-buttons.is-content-justification-right.is-vertical{align-items:flex-end}.wp-block-buttons.is-content-justification-space-between{justify-content:space-between}.wp-block-buttons.aligncenter{text-align:center}.wp-block-buttons:not(.is-content-justification-space-between,.is-content-justification-right,.is-content-justification-left,.is-content-justification-center) .wp-block-button.aligncenter{margin-left:auto;margin-right:auto;width:100%}.wp-block-buttons[style*=text-decoration] .wp-block-button,.wp-block-buttons[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-button.aligncenter{text-align:center}
+</style>
+<style id="wp-block-button-inline-css">
+.wp-block-button__link{box-sizing:border-box;cursor:pointer;display:inline-block;text-align:center;word-break:break-word}.wp-block-button__link.aligncenter{text-align:center}.wp-block-button__link.alignright{text-align:right}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-button[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons>.wp-block-button.wp-block-button__width-25{width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.wp-block-buttons>.wp-block-button.wp-block-button__width-50{width:calc(50% - var(--wp--style--block-gap, .5em)*.5)}.wp-block-buttons>.wp-block-button.wp-block-button__width-75{width:calc(75% - var(--wp--style--block-gap, .5em)*.25)}.wp-block-buttons>.wp-block-button.wp-block-button__width-100{flex-basis:100%;width:100%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-25{width:25%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-50{width:50%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-75{width:75%}.wp-block-button.is-style-squared,.wp-block-button__link.wp-block-button.is-style-squared{border-radius:0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-radius{border-radius:0!important}.wp-block-button.is-style-outline>.wp-block-button__link,.wp-block-button .wp-block-button__link.is-style-outline{border:2px solid;padding:.667em 1.333em}.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color),.wp-block-button .wp-block-button__link.is-style-outline:not(.has-text-color){color:currentColor}.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background),.wp-block-button .wp-block-button__link.is-style-outline:not(.has-background){background-color:initial;background-image:none}
+.wp-block-button .wp-block-button__link{background-color: var(--wp--custom--button--color--background);border-radius: var(--wp--custom--button--border--radius);border-color: var(--wp--custom--button--border--color);border-width: var(--wp--custom--button--border--width);border-style: var(--wp--custom--button--border--style);color: var(--wp--custom--button--color--text);font-size: var(--wp--custom--button--typography--font-size);font-weight: var(--wp--custom--button--typography--font-weight);line-height: var(--wp--custom--button--typography--line-height);padding-top: var(--wp--custom--button--spacing--padding--top);padding-right: var(--wp--custom--button--spacing--padding--right);padding-bottom: var(--wp--custom--button--spacing--padding--bottom);padding-left: var(--wp--custom--button--spacing--padding--left);}
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{clip:rect(1px,1px,1px,1px);word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{clip:auto!important;background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}figure{margin:0 0 1em}
+.has-text-align-justify {
+	text-align:justify;
+}
+.wp-block-cover__image-background.has-parallax {
+	background-size: cover;
+}
+</style>
+<link crossorigin="anonymous" rel="stylesheet" id="all-css-46-1" href="./Homework4_TA5.1_files/saved_resource(3)" type="text/css" media="all">
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #FFFFFF;--wp--preset--color--secondary: #FEF6B2;--wp--preset--color--background: #192833;--wp--preset--color--tertiary: #000000;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 1.125rem;--wp--preset--font-size--medium: 1.375rem;--wp--preset--font-size--large: min(max(1.75rem, 5vw), 2.375rem);--wp--preset--font-size--x-large: min(max(2.25rem, 5vw), 3rem);--wp--preset--font-family--system-font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--courier-prime: 'Courier Prime', serif;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--helvetica-neue: 'Helvetica Neue','Helvetica', 'Arial', sans-serif;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--red-hat-display: 'Red Hat Display', sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', sans-serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--source-sans-pro: 'Source Sans Pro', sans-serif;--wp--preset--font-family--source-serif-pro: 'Source Serif Pro', sans-serif;--wp--preset--font-family--space-mono: 'Space Mono', sans-serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--custom--alignment--aligned-max-width: 50%;--wp--custom--button--border--color: var(--wp--custom--color--foreground);--wp--custom--button--border--radius: 0;--wp--custom--button--border--style: solid;--wp--custom--button--border--width: 3px;--wp--custom--button--color--background: var(--wp--custom--color--foreground);--wp--custom--button--color--text: var(--wp--custom--color--background);--wp--custom--button--hover--color--text: var(--wp--custom--color--foreground);--wp--custom--button--hover--color--background: var(--wp--custom--color--background);--wp--custom--button--hover--border--color: var(--wp--custom--color--foreground);--wp--custom--button--spacing--padding--top: 0.667em;--wp--custom--button--spacing--padding--bottom: 0.667em;--wp--custom--button--spacing--padding--left: 1.333em;--wp--custom--button--spacing--padding--right: 1.333em;--wp--custom--button--typography--font-size: var(--wp--custom--font-size--normal);--wp--custom--button--typography--font-weight: 700;--wp--custom--button--typography--line-height: 2;--wp--custom--button--outline--color--text: var(--wp--custom--color--primary);--wp--custom--button--outline--color--background: var(--wp--custom--color--background);--wp--custom--button--outline--border--color: var(--wp--custom--color--primary);--wp--custom--button--outline--hover--color--text: var(--wp--custom--color--background);--wp--custom--button--outline--hover--color--background: var(--wp--custom--color--secondary);--wp--custom--button--outline--hover--border--color: var(--wp--custom--color--primary);--wp--custom--color--foreground: var(--wp--preset--color--primary);--wp--custom--color--background: var(--wp--preset--color--background);--wp--custom--color--primary: var(--wp--preset--color--primary);--wp--custom--color--secondary: var(--wp--preset--color--secondary);--wp--custom--color--tertiary: var(--wp--preset--color--tertiary);--wp--custom--font-sizes--x-small: 1rem;--wp--custom--font-sizes--normal: 1.25rem;--wp--custom--font-sizes--huge: 3rem;--wp--custom--form--padding: 20px;--wp--custom--form--border--color: var(--wp--custom--color--foreground);--wp--custom--form--border--radius: 0;--wp--custom--form--border--style: solid;--wp--custom--form--border--width: 2px;--wp--custom--form--checkbox--checked--content: "\2715";--wp--custom--form--checkbox--checked--font-size: var(--wp--custom--font-sizes--x-small);--wp--custom--form--checkbox--checked--position--left: 3px;--wp--custom--form--checkbox--checked--position--top: 3px;--wp--custom--form--checkbox--checked--sizing--height: 12px;--wp--custom--form--checkbox--checked--sizing--width: 12px;--wp--custom--form--checkbox--unchecked--content: "";--wp--custom--form--checkbox--unchecked--position--left: 0;--wp--custom--form--checkbox--unchecked--position--top: 0.2em;--wp--custom--form--checkbox--unchecked--sizing--height: 16px;--wp--custom--form--checkbox--unchecked--sizing--width: 16px;--wp--custom--form--color--background: transparent;--wp--custom--form--color--box-shadow: none;--wp--custom--form--color--text: inherit;--wp--custom--form--label--spacing--margin--bottom: var(--wp--custom--gap--baseline);--wp--custom--form--label--typography--font-size: var(--wp--custom--font-sizes--x-small);--wp--custom--form--label--typography--font-weight: normal;--wp--custom--form--label--typography--letter-spacing: normal;--wp--custom--form--label--typography--text-transform: none;--wp--custom--form--typography--font-size: var(--wp--custom--font-sizes--normal);--wp--custom--gallery--caption--font-size: var(--wp--preset--font-size--small);--wp--custom--body--typography--line-height: 1.7;--wp--custom--heading--typography--font-weight: 300;--wp--custom--heading--typography--line-height: 1.125;--wp--custom--latest-posts--meta--color--text: var(--wp--custom--color--primary);--wp--custom--layout--content-size: 664px;--wp--custom--gap--baseline: 10px;--wp--custom--gap--horizontal: min(30px, 5vw);--wp--custom--gap--vertical: min(30px, 5vw);--wp--custom--navigation--submenu--border--color: var(--wp--custom--color--primary);--wp--custom--navigation--submenu--border--radius: var(--wp--custom--form--border--radius);--wp--custom--navigation--submenu--border--style: var(--wp--custom--form--border--style);--wp--custom--navigation--submenu--border--width: var(--wp--custom--form--border--width);--wp--custom--navigation--submenu--color--background: var(--wp--custom--color--background);--wp--custom--navigation--submenu--color--text: var(--wp--custom--color--foreground);--wp--custom--paragraph--dropcap--margin: 0 .2em .2em 0;--wp--custom--paragraph--dropcap--typography--font-size: var(--wp--preset--font-size--x-large);--wp--custom--paragraph--dropcap--typography--font-weight: 400;--wp--custom--post-author--typography--font-weight: normal;--wp--custom--post-comment--typography--font-size: var(--wp--custom--font-sizes--normal);--wp--custom--post-comment--typography--line-height: var(--wp--custom--body--typography--line-height);--wp--custom--pullquote--citation--typography--font-size: var(--wp--custom--font-sizes--x-small);--wp--custom--pullquote--citation--typography--font-family: inherit;--wp--custom--pullquote--citation--typography--font-style: normal;--wp--custom--pullquote--citation--typography--font-weight: 400;--wp--custom--pullquote--citation--spacing--margin--top: var(--wp--custom--gap--vertical);--wp--custom--pullquote--typography--text-align: left;--wp--custom--quote--citation--typography--font-size: var(--wp--custom--font-sizes--x-small);--wp--custom--quote--citation--typography--font-style: normal;--wp--custom--quote--citation--typography--font-weight: 400;--wp--custom--quote--typography--text-align: left;--wp--custom--separator--opacity: 1;--wp--custom--separator--width: 150px;--wp--custom--table--figcaption--typography--font-size: var(--wp--custom--font-sizes--x-small);--wp--custom--video--caption--text-align: center;--wp--custom--video--caption--margin: var(--wp--custom--gap--vertical) auto;--wp--custom--line-height--body: 1.7;}body { margin: 0;--wp--style--global--content-size: 664px;--wp--style--global--wide-size: 1128px;}.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }.wp-site-blocks > * { margin-block-start: 0; margin-block-end: 0; }.wp-site-blocks > * + * { margin-block-start: calc(2 * var(--wp--custom--gap--baseline)); }body { --wp--style--block-gap: calc(2 * var(--wp--custom--gap--baseline)); }body .is-layout-flow > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-flow > * + *{margin-block-start: calc(2 * var(--wp--custom--gap--baseline));margin-block-end: 0;}body .is-layout-constrained > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-constrained > * + *{margin-block-start: calc(2 * var(--wp--custom--gap--baseline));margin-block-end: 0;}body .is-layout-flex{gap: calc(2 * var(--wp--custom--gap--baseline));}body .is-layout-flow > .alignleft{float: left;}body .is-layout-flow > .alignright{float: right;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;}body .is-layout-constrained > .alignright{float: right;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{background-color: var(--wp--custom--color--background);color: var(--wp--custom--color--foreground);font-family: var(--wp--preset--font-family--rubik);font-size: var(--wp--custom--font-sizes--normal);font-weight: 400;line-height: var(--wp--custom--body--typography--line-height);padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){color: var(--wp--custom--color--secondary);text-decoration: underline;}a:where(:not(.wp-element-button)):hover{text-decoration: none;}a:where(:not(.wp-element-button)):focus{text-decoration: none;}a:where(:not(.wp-element-button)):active{text-decoration: none;}h1{font-size: min(max(3rem, 7vw), 5rem);font-weight: var(--wp--custom--heading--typography--font-weight);line-height: 1.2;margin-top: var(--wp--custom--gap--vertical);margin-bottom: var(--wp--custom--gap--vertical);}h2{font-size: min(max(2.25rem, 6vw), 4.0625rem);font-weight: var(--wp--custom--heading--typography--font-weight);line-height: 1.2;margin-top: var(--wp--custom--gap--vertical);margin-bottom: var(--wp--custom--gap--vertical);}h3{font-size: var(--wp--preset--font-size--large);font-weight: var(--wp--custom--heading--typography--font-weight);line-height: 1.2;margin-top: var(--wp--custom--gap--vertical);margin-bottom: var(--wp--custom--gap--vertical);}h4{font-size: var(--wp--preset--font-size--large);font-weight: var(--wp--custom--heading--typography--font-weight);line-height: 1.4;margin-top: var(--wp--custom--gap--vertical);margin-bottom: var(--wp--custom--gap--vertical);}h5{font-size: var(--wp--custom--font-size--normal);font-weight: var(--wp--custom--heading--typography--font-weight);line-height: 1.4;margin-top: var(--wp--custom--gap--vertical);margin-bottom: var(--wp--custom--gap--vertical);}h6{font-size: var(--wp--preset--font-size--small);font-weight: var(--wp--custom--heading--typography--font-weight);line-height: 1.4;margin-top: var(--wp--custom--gap--vertical);margin-bottom: var(--wp--custom--gap--vertical);}.wp-element-button, .wp-block-button__link{background-color: var(--wp--custom--button--color--background);border-radius: var(--wp--custom--button--border--radius);border-width: 0;color: var(--wp--custom--button--color--text);font-family: var(--wp--preset--font-family--body-font);font-size: var(--wp--custom--button--typography--font-size);font-weight: var(--wp--custom--button--typography--font-weight);line-height: var(--wp--custom--button--typography--line-height);padding-top: calc( var(--wp--custom--button--spacing--padding--top) + var(--wp--custom--button--border--width) );padding-right: calc( var(--wp--custom--button--spacing--padding--right) + var(--wp--custom--button--border--width) );padding-bottom: calc( var(--wp--custom--button--spacing--padding--bottom) + var(--wp--custom--button--border--width) );padding-left: calc( var(--wp--custom--button--spacing--padding--left) + var(--wp--custom--button--border--width) );text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-background-color{color: var(--wp--preset--color--background) !important;}.has-tertiary-color{color: var(--wp--preset--color--tertiary) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-background-background-color{background-color: var(--wp--preset--color--background) !important;}.has-tertiary-background-color{background-color: var(--wp--preset--color--tertiary) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-background-border-color{border-color: var(--wp--preset--color--background) !important;}.has-tertiary-border-color{border-color: var(--wp--preset--color--tertiary) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-system-font-font-family{font-family: var(--wp--preset--font-family--system-font) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-helvetica-neue-font-family{font-family: var(--wp--preset--font-family--helvetica-neue) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-red-hat-display-font-family{font-family: var(--wp--preset--font-family--red-hat-display) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-source-sans-pro-font-family{font-family: var(--wp--preset--font-family--source-sans-pro) !important;}.has-source-serif-pro-font-family{font-family: var(--wp--preset--font-family--source-serif-pro) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}
+</style>
+<style id="core-block-supports-inline-css">
+.wp-container-3.wp-container-3{justify-content:space-between;;}.wp-elements-d99218dcd96188ac74b1d1db19d06d28 a{color:#2a2623;;}.wp-container-8.wp-container-8{flex-direction:column;;align-items:flex-start;;}.wp-container-7.wp-container-7,.wp-container-14.wp-container-14{flex-wrap:nowrap;;}
+</style>
+<link crossorigin="anonymous" rel="stylesheet" id="all-css-50-1" href="./Homework4_TA5.1_files/saved_resource(4)" type="text/css" media="all">
+<style id="jetpack-global-styles-frontend-style-inline-css">
+@import url('https://fonts.googleapis.com/css?family=Roboto:thin,extralight,light,regular,medium,semibold,bold,italic,bolditalic,extrabold,black|Rubik:thin,extralight,light,regular,medium,semibold,bold,italic,bolditalic,extrabold,black|');:root { --font-headings: Rubik; --font-base: Roboto; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link crossorigin="anonymous" rel="stylesheet" id="all-css-52-1" href="./Homework4_TA5.1_files/saved_resource(5)" type="text/css" media="all">
+<script id="wpcom-actionbar-placeholder-js-extra">
+var actionbardata = {"siteID":"211089482","siteURL":"http:\/\/statisticsfall22.wordpress.com","xhrURL":"https:\/\/statisticsfall22.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"f5fb9c1fb2","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021","shortlink":"https:\/\/wp.me\/pehI14-4c","i18n":{"followedText":"I nuovi articoli da questo sito saranno ora visibili nel tuo <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Riduci la barra","unfoldBar":"Espandi questa barra"}};
+</script>
+<script crossorigin="anonymous" type="text/javascript" src="./Homework4_TA5.1_files/saved_resource(6)"></script>
+<script type="text/javascript">
+	window.addEventListener( 'DOMContentLoaded', function() {
+		rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+	} );
+</script>
+<link crossorigin="anonymous" rel="stylesheet" id="all-css-0-2" href="./Homework4_TA5.1_files/style(1).css" type="text/css" media="all">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://statisticsfall22.wordpress.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s0.wp.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress.com">
+<link rel="canonical" href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/">
+<link rel="shortlink" href="https://wp.me/pehI14-4c">
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fstatisticsfall22.wordpress.com%2F2022%2F10%2F26%2Fresearches-about-theory-relevant-to-applications-h4%2F&amp;for=wpcom-auto-discovery"><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fstatisticsfall22.wordpress.com%2F2022%2F10%2F26%2Fresearches-about-theory-relevant-to-applications-h4%2F&amp;for=wpcom-auto-discovery">
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Researches about theory relevant to applications H4">
+<meta property="og:url" content="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/">
+<meta property="og:description" content="TA5. The .Net framework provides umpteen numbers of options to create and edit graphics through a variety of programming techniques. The Graphics feature in .Net has been mostly implemented in a se…">
+<meta property="article:published_time" content="2022-10-26T13:06:23+00:00">
+<meta property="article:modified_time" content="2022-11-20T08:50:02+00:00">
+<meta property="og:site_name" content="1957545">
+<meta property="og:image" content="https://statisticsfall22.files.wordpress.com/2022/10/cropped-cropped-432548.png?w=200">
+<meta property="og:image:width" content="200">
+<meta property="og:image:height" content="200">
+<meta property="og:image:alt" content="">
+<meta property="og:locale" content="it_IT">
+<meta property="fb:app_id" content="249643311490">
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom">
+<meta name="twitter:text:title" content="Researches about theory relevant to applications H4">
+<meta name="twitter:image" content="https://statisticsfall22.files.wordpress.com/2022/10/cropped-cropped-432548.png?w=240">
+<meta name="twitter:card" content="summary">
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="search" type="application/opensearchdescription+xml" href="https://statisticsfall22.wordpress.com/osd.xml" title="1957545">
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com">
+<meta name="application-name" content="1957545"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-task" content="name=Iscriviti;action-uri=https://statisticsfall22.wordpress.com/feed/;icon-uri=https://statisticsfall22.files.wordpress.com/2022/10/cropped-cropped-432548.png?w=16"><meta name="msapplication-task" content="name=Iscriviti per un blog gratis;action-uri=http://wordpress.com/signup/;icon-uri=https://s0.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=Supporto WordPress.com;action-uri=http://support.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=Forums WordPress.com;action-uri=http://forums.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico"><meta name="description" content="TA5. The .Net framework provides umpteen numbers of options to create and edit graphics through a variety of programming techniques. The Graphics feature in .Net has been mostly implemented in a set of managed classes in the namespaces, System.Drawing, System.Drawing.Drawing2D, System.Drawing.Imaging, System.Drawing.Printing and System.Drawing.Text. These classes that help in custom drawing on the screen forms…">
+		<script type="application/javascript" src="./Homework4_TA5.1_files/smart.js.download" async=""></script>
+		<script type="application/javascript">
+			var sas = sas || {};
+			var sas_fallback = sas_fallback || [];
+			sas.cmd = sas.cmd || [];
+			sas.cmd.push(function() {
+				sas.setup({networkid: 3905, domain: 'https://www15.smartadserver.com', async: true});
+			});
+			sas.cmd.push(function() {
+				sas.call('onecall', {
+					siteId: 474853,
+					pageId: 1572546,
+					formats: [
+						{ id: 110354, tagId: "sas_110354" }
+					],
+					target: 'iab_category=IAB19;wp_blog_id=211089482',
+				});
+			});
+			sas.cmd.push(function() {
+				sas.events.on('noad', function(data) {
+					var el = document.getElementById(data.tagId);
+					var wrapper = el.closest('.wordads-ad-wrapper');
+					
+					if ( sas_fallback.length === 0 ) {
+						wrapper.remove();
+						return;
+					}
+					
+					// Process first tag.
+					var tag = sas_fallback[0].tag;
+					
+					// Unescape the tag markup.
+					var e = document.createElement('div');
+					e.innerHTML = tag;
+					tag = e.childNodes[0].nodeValue;
+					
+					// Insert the tag.
+					wrapper.innerHTML = tag;
+					
+					// Process any scripts in the tag.
+					var scripts = wrapper.querySelectorAll('script');
+					scripts.forEach( function (script) {
+						script.parentNode.removeChild(script);
+						
+						var scriptTag = document.createElement('script');
+						
+						if (script.src) {
+							scriptTag.src = script.src;
+						} else if (script.textContent) {
+							scriptTag.textContent = script.textContent;
+						} else if (script.innerText) {
+							scriptTag.innerText = script.innerText;
+						}
+						
+						document.body.appendChild(scriptTag);
+					});
+				});
+			});
+			sas.cmd.push(function() {
+				sas.events.on('load', function(data) {
+					var el = document.getElementById(data.tagId);
+					el.closest('.wordads-ad-wrapper').style.display = 'inherit';
+				});
+			});
+		</script>		<script>
+			window.sas_fallback = window.sas_fallback || [];
+			window.sas_fallback.push( { tag: "&lt;div class=&quot;OUTBRAIN wa-ob-widget&quot;data-ob-contentUrl=&quot;https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/&quot;data-widget-id=&quot;AR_1&quot;data-ob-installation-key=&quot;WORDP263NC92GIANECJP6HEPM&quot;data-ob-psub=&quot;tech&quot;&gt;&lt;/div&gt;&lt;script&gt;window._stq = window._stq || [];window._stq.push( [ \'extra\', { x_wordads_outbrain: \'widget_render_ar_1\', }, ] );&lt;/script&gt;&lt;script src=&quot;https://widgets.outbrain.com/outbrain.js&quot;&gt;&lt;/script&gt;", } );
+		</script>		<script type="text/javascript">
+
+			window.doNotSellCallback = function() {
+
+				var linkElements = [
+					'a[href="https://wordpress.com/?ref=footer_blog"]',
+					'a[href="https://wordpress.com/?ref=footer_website"]',
+					'a[href="https://wordpress.com/?ref=vertical_footer"]',
+					'a[href^="https://wordpress.com/?ref=footer_segment_"]',
+				].join(',');
+
+				var dnsLink = document.createElement( 'a' );
+				dnsLink.href = 'https://wordpress.com/it/advertising-program-optout/';
+				dnsLink.classList.add( 'do-not-sell-link' );
+				dnsLink.rel = 'nofollow';
+				dnsLink.style.marginLeft = '0.5em';
+				dnsLink.textContent = 'Non vendere o condividere le mie informazioni personali';
+
+				var creditLinks = document.querySelectorAll( linkElements );
+
+				if ( 0 === creditLinks.length ) {
+					return false;
+				}
+
+				Array.prototype.forEach.call( creditLinks, function( el ) {
+					el.insertAdjacentElement( 'afterend', dnsLink );
+				});
+
+				return true;
+			};
+
+		</script>
+		<script id="cmp-configuration" type="application/configuration">{"gvlVersion":"172","consentLanguage":"IT","locale":"it","vendorsAll":"BJZrv4__7a_t_z_f_T9ujzGr_v9e_dyGYcL5tn3gu5f635eC_-wnZou_VtXBUyPEl2pYJChto5k6gak2LVEiteY9jUmzlOZpRP4Mkk9jL2zrAwvt83NsfyBTPf_P7u7_Oyf_v_t_2_ue-_uu9-7vu_3-u58bv_P_o_9_76P7fn5T_v_f3_F_n____-_73______v__4A","vendorsLegInterest":"BJYAkw1biALsyxwZtAwigRAjCsJCqBQAQUAwtEBgA4OCnZWAT6wgQAIBQBGBECHAFGBAIAABIAkIgAkCLBAAACIBAACABEIhAAwMAgsALAwCAAEA0DFEKAAQJCDIgIilMCAqBIICWyoQSgukNMIAqywAoJEbFQAIgkBFYAAgLBwDBEgJWLBAkxRvkAIwQoBRKhWohPQA","ajaxNonce":"5c1d556776","modulePath":"https:\/\/s0.wp.com\/wp-content\/blog-plugins\/wordads-classes\/js\/","gvlPath":"https:\/\/public-api.wordpress.com\/wpcom\/v2\/sites\/211089482\/cmp\/vendors\/it\/","_":{"title":"Privacy e cookie","intro":"Noi di WordPress.com e i nostri partner pubblicitari archiviamo e\/o accediamo a informazioni sul tuo dispositivo e trattiamo anche dati personali, come identificatori univoci, attivit\u00e0 di navigazione e altre informazioni standard inviate dal tuo dispositivo, compreso il tuo indirizzo IP. Queste informazioni vengono raccolte nel tempo e utilizzate per annunci personalizzati, valutazione degli annunci, osservazioni del pubblico e sviluppo di prodotti specifici per il nostro programma di annunci. Se sei d'accordo, seleziona \"Accetto.\" di seguito. Altrimenti, puoi ottenere maggiori informazioni, personalizzare le tue preferenze di consenso o rifiutare il consenso selezionando \"Ulteriori informazioni\". Considera che le tue preferenze si applicano a tutti i siti web della <a href=\"https:\/\/automattic.com\/cookies\/#user-ads-consent\" target=\"_blank\">rete WordPress.com<\/a> e, se in futuro cambierai idea, potrai aggiornare le tue preferenze in qualsiasi momento consultando il link Privacy presente in ogni annuncio. Un'ultima cosa: i nostri partner possono trattare alcuni dei tuoi dati sulla base di interessi legittimi anzich\u00e9 del consenso, ma puoi opporti selezionando \"Ulteriori informazioni\" e quindi disabilitare il pulsante Interessi Legittimi per qualsiasi Finalit\u00e0 o Partner elencato.","config":"Ulteriori informazioni","accept":"Accetto.","viewPartners":"Visualizza fornitori","error":"Siamo spiacenti, ma si \u00e8 verificato un errore imprevisto. Riprova pi\u00f9 tardi."}}</script>		<script type="text/javascript">
+		function __ATA_CC() {var v = document.cookie.match('(^|;) ?personalized-ads-consent=([^;]*)(;|$)');return v ? 1 : 0;}
+		var __ATA_PP = { 'pt': 1, 'ht': 0, 'tn': 'geologist-slate', 'uloggedin': 0, 'amp': false, 'consent': __ATA_CC(), 'gdpr_applies': true, 'ad': { 'label': { 'text': 'Annunci' }, 'reportAd': { 'text': 'Segnala questo annuncio' }, 'privacySettings': { 'text': 'Privacy', 'onClick': function() { window.__tcfapi && window.__tcfapi( 'showUi' ) } } }, 'siteid': 8982, 'blogid': 211089482, 'js_hint': 'tcf2_test' };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		</script>
+		<script type="text/javascript">
+		(function(){var g=Date.now||function(){return+new Date};function h(a,b){a:{for(var c=a.length,d="string"==typeof a?a.split(""):a,e=0;e<c;e++)if(e in d&&b.call(void 0,d[e],e,a)){b=e;break a}b=-1}return 0>b?null:"string"==typeof a?a.charAt(b):a[b]};function k(a,b,c){c=null!=c?"="+encodeURIComponent(String(c)):"";if(b+=c){c=a.indexOf("#");0>c&&(c=a.length);var d=a.indexOf("?");if(0>d||d>c){d=c;var e=""}else e=a.substring(d+1,c);a=[a.substr(0,d),e,a.substr(c)];c=a[1];a[1]=b?c?c+"&"+b:b:c;a=a[0]+(a[1]?"?"+a[1]:"")+a[2]}return a};var l=0;function m(a,b){var c=document.createElement("script");c.src=a;c.onload=function(){b&&b(void 0)};c.onerror=function(){b&&b("error")};a=document.getElementsByTagName("head");var d;a&&0!==a.length?d=a[0]:d=document.documentElement;d.appendChild(c)}function n(a){var b=void 0===b?document.cookie:b;return(b=h(b.split("; "),function(c){return-1!=c.indexOf(a+"=")}))?b.split("=")[1]:""}function p(a){return"string"==typeof a&&0<a.length}
+		function r(a,b,c){b=void 0===b?"":b;c=void 0===c?".":c;var d=[];Object.keys(a).forEach(function(e){var f=a[e],q=typeof f;"object"==q&&null!=f||"function"==q?d.push(r(f,b+e+c)):null!==f&&void 0!==f&&(e=encodeURIComponent(b+e),d.push(e+"="+encodeURIComponent(f)))});return d.filter(p).join("&")}function t(a,b){a||((window.__ATA||{}).config=b.c,m(b.url))}var u=Math.floor(1E13*Math.random()),v=window.__ATA||{};window.__ATA=v;window.__ATA.cmd=v.cmd||[];v.rid=u;v.createdAt=g();var w=window.__ATA||{},x="s.pubmine.com";
+		w&&w.serverDomain&&(x=w.serverDomain);var y="//"+x+"/conf",z=window.top===window,A=window.__ATA_PP&&window.__ATA_PP.gdpr_applies,B="boolean"===typeof A?Number(A):null,C=window.__ATA_PP||null,D=z?document.referrer?document.referrer:null:null,E=z?window.location.href:document.referrer?document.referrer:null,F,G=n("__ATA_tuuid");F=G?G:null;var H=window.innerWidth+"x"+window.innerHeight,I=n("usprivacy"),J=r({gdpr:B,pp:C,rid:u,src:D,ref:E,tuuid:F,vp:H,us_privacy:I?I:null},"",".");
+		(function(a){var b=void 0===b?"cb":b;l++;var c="callback__"+g().toString(36)+"_"+l.toString(36);a=k(a,b,c);window[c]=function(d){t(void 0,d)};m(a,function(d){d&&t(d)})})(y+"?"+J);}).call(this);
+		</script><script src="./Homework4_TA5.1_files/conf"></script>	<script>
+		var sas_fallback = sas_fallback || [];
+		sas_fallback.push(
+			{ tag: "&lt;div id=&quot;atatags-26942-6384f66ddbf6b&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: \'atatags-26942-6384f66ddbf6b\',location: 120,formFactor: \'001\',label: {text: \'Annunci\',},creative: {reportAd: {text: \'Segnala questo annuncio\',},privacySettings: {text: \'Privacy\',onClick: function() { window.__tcfapi &amp;&amp; window.__tcfapi( \'showUi\' ); },}}});});&lt;/script&gt;", }
+		);
+	</script><link rel="icon" href="https://statisticsfall22.files.wordpress.com/2022/10/cropped-cropped-432548.png?w=32" sizes="32x32">
+<link rel="icon" href="https://statisticsfall22.files.wordpress.com/2022/10/cropped-cropped-432548.png?w=192" sizes="192x192">
+<link rel="apple-touch-icon" href="https://statisticsfall22.files.wordpress.com/2022/10/cropped-cropped-432548.png?w=180">
+<meta name="msapplication-TileImage" content="https://statisticsfall22.files.wordpress.com/2022/10/cropped-cropped-432548.png?w=270">
+<script type="text/javascript" async="" src="./Homework4_TA5.1_files/ga.js.download"></script><link rel="stylesheet" type="text/css" id="gravatar-card-css" href="./Homework4_TA5.1_files/hovercard.min.css"><link rel="stylesheet" type="text/css" id="gravatar-card-services-css" href="./Homework4_TA5.1_files/services.min.css"><script src="./Homework4_TA5.1_files/ata.js.download"></script><script src="./Homework4_TA5.1_files/tag.js.download"></script><link href="./Homework4_TA5.1_files/actionbar.css" type="text/css" rel="stylesheet"><script type="text/javascript" src="./Homework4_TA5.1_files/platforms" charset="UTF-8" async=""></script></head><body class="post-template-default single single-post postid-260 single-format-standard wp-custom-logo wp-embed-responsive customizer-styles-applied has-marketing-bar has-marketing-bar-theme-geologist-slate highlander-enabled highlander-light"><div id="marketingbar" class="marketing-bar noskim"><div class="marketing-bar-text">Progetta un sito come questo con WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/it?ref=marketing_bar">Crea il tuo sito</a><a class="marketing-bar-link" tabindex="-1" aria-label="Crea il tuo sito web su WordPress.com" href="https://wordpress.com/start/it?ref=marketing_bar"></a></div><script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0.49803921568627"></fefuncr><fefuncg type="table" tableValues="0 0.49803921568627"></fefuncg><fefuncb type="table" tableValues="0 0.49803921568627"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 0.27843137254902"></fefuncg><fefuncb type="table" tableValues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0"></fefuncr><fefuncg type="table" tableValues="0 0.64705882352941"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.78039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.94901960784314"></fefuncg><fefuncb type="table" tableValues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.098039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.66274509803922"></fefuncg><fefuncb type="table" tableValues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg>
+<a class="skip-link screen-reader-text" href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/#wp--skip-link--target">Vai al contenuto</a><div class="wp-site-blocks"><header class="wp-block-template-part">
+<div class="wp-block-group gapless-group is-layout-constrained">
+<div class="wp-block-group alignfull site-header site-header-linear is-content-justification-space-between is-layout-flex wp-container-3" style="padding-top:var(--wp--custom--gap--vertical);padding-bottom:var(--wp--custom--gap--vertical);">
+<div class="wp-block-group site-brand is-layout-flex">
+<div class="wp-block-group site-words-stack-small is-layout-flex"><h1 class="has-text-color has-primary-color wp-block-site-title"><a href="https://statisticsfall22.wordpress.com/" target="_self" rel="home">1957545</a></h1>
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div style="height:0;" aria-hidden="true" class="wp-block-spacer"></div>
+</header>
+
+
+<main class="wp-block-group is-layout-flow" id="wp--skip-link--target">
+
+	
+	<div class="wp-block-group is-layout-constrained">
+		<h1 style="margin-bottom:calc(2 * var(--wp--style--block-gap));;" class="has-text-align-left wp-block-post-title">Researches about theory relevant to applications&nbsp;H4</h1>
+		
+	</div>
+	
+
+	<div class="entry-content wp-block-post-content is-layout-constrained">
+<div class="wp-elements-d99218dcd96188ac74b1d1db19d06d28 wp-block-group alignfull has-primary-background-color has-text-color has-background has-link-color has-large-font-size is-vertical is-content-justification-left is-layout-flex wp-container-8" style="color:#2a2623;margin-top:0;margin-bottom:0;padding-top:7vw;padding-bottom:7vw;">
+<div class="wp-block-columns alignwide is-layout-flex wp-container-7">
+<div class="wp-block-column has-small-font-size is-layout-flow">
+<h2 class="has-large-font-size">TA5.</h2>
+
+
+
+<p>The .Net framework provides umpteen numbers of options to create and edit graphics through a variety of programming techniques. The Graphics feature in .Net has been mostly implemented in a set of managed classes in the namespaces, System.Drawing, System.Drawing.Drawing2D, System.Drawing.Imaging, System.Drawing.Printing and System.Drawing.Text. These classes that help in custom drawing on the screen forms the GDI+ (Graphics Device Interface) object model of .Net framework. These classes are very intuitive and easy to use. The services provided in this model can be categorized into the following sections:</p>
+
+
+
+<p>• Drawing basic graphics like line, rectangle, etc.<br><br>• Creating and using images, bitmaps, icons, etc.<br><br>• Formatting the text content to different size and shapes</p>
+
+
+
+<p class="has-medium-font-size">Drawing graphics</p>
+
+
+
+<p class="has-small-font-size">Some of the classes that implement the logic for drawing two-dimensional graphics are Brush, Font, Icon, Image, Pen, etc. The names of the classes are self-explanatory to the service they provide. In addition to these classes, the Graphics class is used to draw to the display device. The Pen class is used to draw lines and curves while the classes derived from Brush are used to fill the interiors of the shapes.<br><br>There are also few structures like Point, Color, Rectangle and Size which are used to specify the details of an object which can be of more than one value. For example, by using a Point structure, the co-ordinates of a control (Button1) to be 10 pixels from the upper-left corner of the form in which it resides can be specified as below:<br><br>Button1.Location = new Point (10, 10);<br>Following can be the steps to draw a line or any two-dimensional figure in a Windows Form using .Net classes:<br><br>• Creating a Graphics object by means of calling the System.Windows.Forms.Control.CreateGraphics method.<br><br>• Creating the Pen object and to specify the color and width in pixels.<br><br>• Draw a line or any shape by calling the Graphics member methods and by using the Pen instance created. Some of the methods of Graphics class are DrawEllipse, DrawImage, DrawLine, DrawPie, DrawPolygon, etc. Each of these members is overloaded with different methods through which the figure can be drawn.<br>Following are the steps to draw solid shape filled with color:<br><br>• Create a Graphics object by calling the System.Windows.Forms.Control.CreateGraphics method.<br><br>• Create a Brush object and specify the filling pattern and color (by choosing the required derived class of Brush class).<br><br>• Call the required Fill method of Brush class and then the Draw method.</p>
+
+
+
+<p class="has-medium-font-size">Bitmap</p>
+
+
+
+<p>A bitmap is an array of bits that specify the color of each pixel in a rectangular array of pixels. The number of bits devoted to an individual pixel determines the number of colors that can be assigned to that pixel. For example, if each pixel is represented by 4 bits, then a given pixel can be assigned one of 16 different colors (2^4 = 16). </p>
+
+
+
+<p>Aspose.Drawing for .NET lets you create a bitmap from scratch or open from an existing file that can further be edited. The following code create an arc:</p>
+
+
+
+<pre class="wp-block-code has-primary-color has-background-background-color has-text-color has-background"><code>
+using System.Drawing;
+
+Bitmap bitmap = new Bitmap(1000, 800, System.Drawing.Imaging.PixelFormat.Format32bppPArgb);
+Graphics graphics = Graphics.FromImage(bitmap);
+
+Pen pen = new Pen(Color.Blue, 2);
+graphics.DrawArc(pen, 0, 0, 700, 700, 0, 180);
+
+bitmap.Save("DrawArc.png");</code></pre>
+
+
+
+<p class="has-medium-font-size">Chart</p>
+
+
+
+<p>A chart can operate in bound or unbound mode. In unbound mode, you can manually create and position series points. In bound mode, a chart or an individual series visualizes data from its data source. An example is add series points at runtime.</p>
+
+
+
+<pre class="wp-block-code has-primary-color has-background-background-color has-text-color has-background"><code>Series northSeries = chartControl.Series["DevAV North"];
+northSeries.Points.AddRange(
+    new SeriesPoint(2007, 3.01),
+    new SeriesPoint(2008, 3.212),
+    new SeriesPoint(2009, 3.223),
+    // and another points.
+);
+// The Points collection provides  Add...Point methods 
+// that allow you to add series points for different view types.
+northSeries.Points.AddPoint(2011, 2.612);
+northSeries.Points.AddBubblePoint(2011, 2.612, 1.0);</code></pre>
+
+
+
+<h2 class="has-large-font-size">TA6.</h2>
+
+
+
+<p><a href="https://computergraphics.stackexchange.com/posts/1771/timeline"></a></p>
+
+
+
+<p><strong>World coordinates</strong> World coordinates are the coordinates used to model a particular graphic world and are the coordinates you pass to methods in the .NET Framework.</p>
+
+
+
+<p><strong>Device coordinates</strong> Device coordinates are the coordinates used by the physical device being drawn on, such as a screen or sheet of paper.</p>
+
+
+
+<p>References</p>
+
+
+
+<ul>
+<li><a href="https://www.dotnet-guide.com/working-with-graphics-in-net.html" rel="nofollow">https://www.dotnet-guide.com/working-with-graphics-in-net.html</a></li>
+
+
+
+<li><a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/advanced/types-of-coordinate-systems?view=netframeworkdesktop-4.8" rel="nofollow">https://learn.microsoft.com/en-us/dotnet/desktop/winforms/advanced/types-of-coordinate-systems?view=netframeworkdesktop-4.8</a></li>
+</ul>
+</div>
+</div>
+</div>
+			<style>
+			.wordads-ad-wrapper {
+				display:none;
+				font: normal 11px Arial, sans-serif;
+				letter-spacing: 1px;
+				text-decoration: none;
+				width: 100%;
+				margin: 25px auto;
+				padding: 0;
+			}
+			.wordads-ad-title {
+				margin-bottom: 5px;
+			}
+			.wordads-ad-controls {
+				margin-top: 5px;
+				text-align: right;
+			}
+			.wordads-ad-controls span {
+				cursor: pointer;
+			}
+			.wordads-ad {
+				width: fit-content;
+				margin: 0 auto;
+			}
+			</style>
+			<div class="wordads-ad-wrapper" style="display: inherit;"><div id="ob_holder" style="display: none;"></div><div class="OUTBRAIN wa-ob-widget" data-ob-contenturl="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/" data-widget-id="AR_1" data-ob-installation-key="WORDP263NC92GIANECJP6HEPM" data-ob-psub="tech" data-ob-mark="true" data-browser="chrome" data-os="win32" data-dynload="" data-idx="0" id="outbrain_widget_0"><div class="ob-widget ob-grid-layout AR_1 ob-cmn-AR_1" data-dynamic-truncate="true">
+            <style type="text/css">.ob-grid-layout,.ob-grid-layout *{-webkit-box-sizing:content-box;box-sizing:content-box}.ob-grid-layout .ob-widget-items-container{display:-ms-grid;display:grid;clear:both}.ob-grid-layout .ob-dynamic-rec-container{position:relative}.ob-grid-layout .ob-dynamic-rec-link{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;text-decoration:none}.ob-grid-layout .ob-unit{display:block;-webkit-box-flex:1;-ms-flex:auto;flex:auto}.ob-grid-layout .ob-unit.ob-rec-image-container{position:relative;width:100%;height:auto}.ob-grid-layout .ob-unit .ob-rec-logo-container.logo-over-image{position:absolute}.ob-grid-layout .ob-rec-comments-count{font-size:11px;font-family:Lato,sans-serif;text-decoration:none;border-radius:0 2px 2px 0;position:absolute;bottom:11px;color:#fff;font-weight:700;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding:5px 8px 6px;height:13px}.ob-grid-layout .ob-rec-comments-count__icon{margin:2px 5px 0 0}.ob-grid-layout .ob-rec-image,.ob-grid-layout .ob-rec-video{position:absolute;top:0;left:0;bottom:0;right:0;width:100%;max-height:100%}.ob-grid-layout .ob-rec-rtb-image{background-color:#fff;background-position:top;background-repeat:no-repeat;width:100%;position:absolute;top:0;bottom:0;left:0;right:0}.ob-grid-layout .ob-rec-label{position:absolute;bottom:0;left:0;padding:0 3px;color:#fff;font-size:10px;line-height:15px}.ob-grid-layout .ob-rec-source-wrapper,.ob-grid-layout .ob-rec-text-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:baseline;-ms-flex-align:baseline;align-items:baseline}.ob-grid-layout .ob-rec-source-wrapper .ob-rec-label,.ob-grid-layout .ob-rec-text-wrapper .ob-rec-label{position:static;-ms-flex-item-align:baseline;align-self:baseline;border-radius:2px;padding:2px 6px}.ob-grid-layout .ob-video-icon-container{position:absolute;left:0}.ob-grid-layout .ob-video-icon-container .ob-video-icon{height:100%;opacity:.7}.ob-grid-layout .ob-rec-author{text-overflow:ellipsis;overflow:hidden}.ob-grid-layout.ob-text-on-image .ob-unit.ob-rec-image-container:after{content:"";display:block;background-image:-webkit-gradient(linear,left top,left bottom,from(rgba(0,4,7,0)),color-stop(76%,rgba(0,4,7,.41)),to(rgba(0,4,7,.54)));background-image:linear-gradient(180deg,rgba(0,4,7,0),rgba(0,4,7,.41) 76%,rgba(0,4,7,.54));height:100%;position:absolute;width:100%;top:0;left:0}.ob-grid-layout.ob-text-on-image .ob-dynamic-rec-link{position:relative}.ob-grid-layout.ob-text-on-image .ob-sub-units{position:absolute;bottom:0}.ob-grid-layout .ob-widget-footer{position:relative}.ob-grid-layout .ob-widget-header{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.ob-grid-layout .ob-rec-source{word-break:break-all}
+.AR_1.ob-grid-layout .ob-widget-items-container {
+    -ms-grid-columns: (1fr)[3];
+    grid-template-columns: repeat(3, minmax(min-content, 1fr));
+    -ms-grid-rows: (1fr)[3];
+    grid-template-rows: repeat(3, auto);
+    margin: 0px 0px 15px 0px
+}
+.AR_1.ob-grid-layout .ob-unit.ob-rec-image-container .ob-image-ratio {padding-top: 66.66666666666666%;}
+.AR_1.ob-widget .ob-rec-image-container .ob-rec-image {opacity:0;transition:all 750ms;}
+.AR_1.ob-widget .ob-rec-image-container .ob-rec-image.ob-show {opacity:1;}
+.AR_1.ob-widget .ob-widget-header {font-weight:bold;}
+.AR_1.ob-widget .ob-dynamic-rec-container .ob-rec-text,
+.AR_1.ob-widget .ob-dynamic-rec-container .ob-rec-source,
+.AR_1.ob-widget .ob-dynamic-rec-container .ob-rec-customText,
+.AR_1.ob-widget .ob-dynamic-rec-container .ob-rec-description{display: -webkit-box;-webkit-box-orient: vertical;overflow: hidden;max-height: initial;}
+.AR_1.ob-widget .ob-dynamic-rec-container .ob-rec-text{-webkit-line-clamp: 3;}
+.AR_1.ob-widget .ob-dynamic-rec-container .ob-rec-source{-webkit-line-clamp: 1;}
+.AR_1.ob-widget .ob-dynamic-rec-container .ob-rec-description{-webkit-line-clamp: 3;}
+.AR_1.ob-widget .ob-dynamic-rec-container .ob-rec-customText{-webkit-line-clamp: 1;}
+.AR_1.ob-widget .ob-rec-text {font-weight:bold;}
+.AR_1.ob-widget .ob-rec-source {font-weight:normal;}
+.AR_1.ob-widget .ob-rec-date {font-weight:bold;}
+.AR_1.ob-widget .ob-rec-description {max-height:53.0px;overflow:hidden;font-weight:normal;}
+
+.AR_1.ob-widget .ob-rec-image-container .ob-video-icon-container {position:absolute;left:0;height:30%;width:100%;text-align:center;top:35%;}
+.AR_1.ob-widget .ob-rec-image-container .ob-video-icon {display:inline-block;height:100%;float:none;opacity:0.7;transition: opacity 500ms;}
+.AR_1.ob-widget .ob-rec-image-container .ob-video-icon:hover {opacity:1;}
+.AR_1.ob-widget .ob_what{direction:ltr;clear:both;padding:5px 10px 0px;}
+            .AR_1 .ob_what a:after {content: "";;;background-image: url('https://widgets.outbrain.com/images/widgetIcons/achoice.svg');background-size:100% 100%;width:12px;height:12px;padding-left:4px;display:inline-block;background-repeat:no-repeat;background-position:right center;border-left:1px solid #999;}
+    .AR_1.ob-widget .ob_what a{color:#757575;font-size:11px;font-family:arial;text-decoration: none;}
+.AR_1.ob-widget .ob_what.ob-hover:hover a{text-decoration: underline;}
+.AR_1.ob-widget .ob_amelia,
+.AR_1.ob-widget .ob_amelia_covid,
+.AR_1.ob-widget .ob_logo,
+.AR_1.ob-widget .ob_feed_logo,
+.AR_1.ob-widget .ob_sfeed_logo,
+.AR_1.ob-widget .ob_text_logo{vertical-align:baseline !important;display:inline-block;vertical-align:text-bottom;padding:0px 5px;box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;}
+.AR_1.ob-widget .ob_amelia{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_logo_16x16.svg') no-repeat center top;width:16px;height:16px;margin-bottom:-2px;}
+.AR_1.ob-widget .ob_amelia_covid{width:auto;height:16px;max-height:16px;margin-bottom:-2px;}
+.AR_1.ob-widget .ob_auto_logo {width:67px; height:100%;}
+.AR_1.ob-widget img.ob_auto_logo {vertical-align:baseline;}
+.AR_1.ob-widget .ob_auto_logo_container{display:inline-block;height:12px;}
+.AR_1.ob-widget .ob_auto_logo_container.ob_only_amelia{overflow:hidden;height:16px;width:16px;margin-right:2px;}
+.AR_1.ob-widget .ob_auto_logo_container.ob_only_amelia .ob_auto_logo {width:82px;}
+.AR_1.ob-widget .ob_logo{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12.png') no-repeat center top;width:67px;height:12px;}
+.AR_1.ob-widget .ob_text_logo{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_text_logo_67x22.png') no-repeat center top;width:67px;height:22px;}
+.AR_1.ob-widget .ob_feed_logo{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_feed_logo.png') no-repeat center top;width:86px;height:23px;}
+.AR_1.ob-widget .ob_sfeed_logo{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_smartFeedLogo.min.svg') no-repeat center top;width:140px;height:21px;}
+.AR_1.ob-widget .ob_sphere_logo{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_sphere.svg') no-repeat center top;width:93px;height:27px;vertical-align:baseline!important;display:inline-block;vertical-align:text-bottom;padding:0px 0px;box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;}
+@media only screen and (-webkit-min-device-pixel-ratio: 2),(min-resolution: 192dpi) {
+.AR_1.ob-widget .ob_amelia{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_logo_16x16@2x.png') no-repeat center top;width:16px;height:16px;margin-bottom:-2px; background-size:16px 32px;}
+.AR_1.ob-widget .ob_logo{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12@2x.png') no-repeat center top;width:67px;height:12px; background-size:67px 24px;}
+.AR_1.ob-widget .ob_text_logo{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_text_logo_67x22@2x.png') no-repeat center top;width:67px;height:20px; background-size:67px 40px;}
+.AR_1.ob-widget .ob_feed_logo{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_feed_logo@2x.png') no-repeat center top;width:86px;height:23px;background-size: 86px 23px;}
+}
+@media only screen and (max-width: 600px) {
+.AR_1.ob-widget .ob_sfeed_logo{width:90px;height:20px;background-size:90px 20px;}
+}
+.AR_1.ob-widget:hover .ob_amelia,
+.AR_1.ob-widget:hover .ob_logo,
+.AR_1.ob-widget:hover .ob_text_logo{background-position:center bottom;}
+.AR_1.ob-widget:hover .ob_auto_logo {filter: invert(54%) sepia(40%) saturate(6018%) hue-rotate(355deg) brightness(97%) contrast(92%);}
+
+  .AR_1.ob-widget {position:relative;}
+  .AR_1.ob-widget .ob_what{position:absolute;top:5px;right:0px;}
+  .AR_1.ob-widget .ob_what{text-align:right;}
+  .AR_1.ob-widget .ob_what.ob_what_resp{position: static;float:  right;padding: 0px;font-weight: normal;flex:none;}
+
+.AR_1.ob-widget .ob_what.ob_what_resp{padding:5px 0;}.AR_1.ob-grid-layout .ob-rec-image-container .ob-rec-label {bottom:0;left:0}
+
+.ob-cmn-AR_1.ob-grid-layout .ob-widget-header {font-family:inherit;font-size:18px;color:black;margin:8px 0px 12px 0px}
+.ob-cmn-AR_1.ob-grid-layout .ob-sub-units {margin:6px 0px 0px 0px}
+.ob-cmn-AR_1.ob-grid-layout .ob-grid-button-container {font-family:inherit;line-height:1.25;font-size:18px;}
+.ob-cmn-AR_1.ob-grid-layout .ob-rec-text {font-family:inherit;color:inherit;margin:0px 0px 0px 0px;text-align:left;line-height:1.25;font-size:18px;}
+.ob-cmn-AR_1.ob-grid-layout .ob-rec-text:hover {color:inherit;}
+.ob-cmn-AR_1.ob-grid-layout .ob-rec-source {font-family:inherit;color:#757575;margin:0px 0px 0px 0px;text-align:left;font-size:12px;line-height:1.25;}
+.ob-cmn-AR_1.ob-grid-layout .ob-rec-date {font-family:inherit;color:black;padding:0px 0 0px;text-align:left;font-size:12px;}
+.ob-cmn-AR_1.ob-grid-layout .ob-rec-author {font-family:inherit;color:black;padding:0px 0 0px;text-align:left;font-size:12px;}
+.ob-cmn-AR_1.ob-grid-layout .ob-rec-description {font-family:inherit;color:black;margin:0;text-align:left;font-size:14px;line-height:1.25;}
+.ob-cmn-AR_1.ob-grid-layout .ob-rec-customText {font-family:inherit;color:black;font-size:14px;background-color:}
+.ob-cmn-AR_1.ob-grid-layout .ob-rec-brandName {font-family:inherit;padding:$dynamic:TitleMarginTop$px 0 $dynamic:TitleMarginBottom$px;line-height:1.25;font-size:13px;font-weight:400;}
+.ob-cmn-AR_1.ob-grid-layout .ob-rec-brandLogo {width:$dynamic:BrandLogoWidth$px;height:$dynamic:BrandLogoHeight$px;}
+.ob-cmn-AR_1.ob-grid-layout .ob-unit.ob-rec-image-container span.ob-rec-label {background-color:#666;color:;font-family:;}
+.ob-cmn-AR_1.ob-grid-layout .ob-rec-text-wrapper span.ob-rec-label,.ob-rec-source-wrapper span.ob-rec-label {background-color:#666;color:;font-family:;}
+.ob-cmn-AR_1.ob-grid-layout .ob-widget-items-container {grid-row-gap:15px;grid-column-gap:15px;}
+.ob-cmn-AR_1.ob-grid-layout .ob-widget-items-container .ob-dynamic-rec-container {padding:0px;border:none;background-color:initial;}
+</style>
+                <style type="text/css" class="ob-custom-css"></style>
+        <div class="ob-widget-header">
+    <span class="ob-grid-header-text">Sponsored Content</span>
+<div class="ob_what ob_what_resp">
+		<a href="https://www.outbrain.com/what-is/default/it" rel="nofollow" onclick="OBR.extern.callWhatIs(&#39;https://www.outbrain.com/what-is/default/it&#39;,&#39;&#39;,-1,-1,true ,null);return false"><span class="ob_amelia" title="outbrain.com"></span></a>
+	</div>
+</div>
+
+
+
+
+        <div class="ob-widget-items-container"><div class="ob-dynamic-rec-container ob-recIdx-0 ob-p" data-pos="0">
+    <a class="ob-dynamic-rec-link " onclick="" href="https://go.babbel.com/v1/ob?bsc=itamag-15minsperday-cd-global-xo-ob&amp;btp=default&amp;utm_source=Outbrain&amp;utm_medium=CON&amp;utm_content=$publisher_id$_$section_id$_00b9c097e46bf9652d2304cb089d5dbba0_00c91d8a7e820f39a39d4970e45ddd14ce&amp;ocid=$ob_click_id$&amp;obOrigUrl=true" onmousedown="this.href=&#39;https://paid.outbrain.com/network/redir?p=_MPs4Mo-CCAQwtJmhcl7XU6Gj_jbG6bKZsCR2o9HkBpZhxCffPfm9RN_v_FiWpWxzLXW6hERbNe5nAMBOGkBD9ZXnybpqCNWTZ81d6LtWCt-GF4PgHS8qWe8qj1KoQWKene7S5PVEAo_iySmJ_xUsFsB5zLIfm9hlOYbWG7alH05e3tYdTTE0w8A2HoXbIcyotRLCw2EBKg9aYCpyJgXZTH-i0wAZxuxX6jqZIeBt_X9H9_6YJKvs5zddsHM05TRmVay7oE4J_1nS4C5N0Qf6G3aGzgayFWqQ4ZddsPNi1nOsGr2AgBDfnLKGecdsDDS7GzXwoE57kRjayRaGEMLWrpM3j3NTQ5W1HeNTVm7E_TUAxN8ahQSo5hQVwqqCCb12uD_A_u5m-TmDUpQTG81ALlSBG9eVKe02qk4MzWgStiDp1PhRKAVhIxyb2CeZHr7bUVdmBWhUPTnSGm_pjN4q9JkxJxge9kvwipTBrhPL1e6UxLW6wjN0AWH5PGYKaq1gHOE2VZwwc5U8wkMxRepmULPPpbdZBrog13ROyLYwEd_AAkRLm6UeSnJ1ODSnEdEOkMPxFdeboiDQEslBaqWlI0FCgyTjPwX2e7e0H0Om3uODKeF6azzOsOxqT1yVUrgxfKFY_oC8XcWA-NTVzAEW-0K3ghNAMQLTmX88TM8jjk76mcu3bvM9I7jLWNTGnlox8pKE7xcpwgeoYbjmUHjMBFbb6CbUx25kguu6s21flq_l2DgIjtR2pCXaOEG0vxKbdI8xlqAuVs-yE0JJ-OiHg_fSoUV6LpxhU0pbPT_GOAoG5gh-952lppfKU0BNsV9cyEs19cJFXeCMvLE0nT7BOfT8KaKZcdhU2tYEZAbyZzE-_dR1oHJTpANX8LIQmR5gVtTbmSPYhkPCZTUXaGE7GdepB9IIV7c5FO-GWiD-_P8KgEGGK1X5BWSLlPlzX2OdYsVUT9L5r4pjffAelhLFv6VxirjGnt1E156hntN111L1dOYfy8To9mPVoSZDQsned52Kd4lzVmpagLppZTBxkU622qjKHxRYMSvq_fYQ_062B0BZkT33ngD07kgsWXUmg_BYpP6APzNjGG3FNjV59wKI0wg5OFuylfOn2KuW3qYh6nhHD3ddRYleuZ9cp4iUV-wJoI-1G1rlA7qgrmpFw1syv6xaoVqVh3ZehAO0E7aq0WeaDKE5O-tuD_gsjbsRYuoJAkuql9O94P2ujtiGlMho9LKdYrhum7JdcuY2In004losHAtmLrwGrbLHn3W25G2e7jND4AVH8Ndkl0Q0dZstlU63ClZIhnMG7fbb_UXSDqTR8KD64rMiOqwcuJKTlkw5Ymf4oKN0MmuNG2PeTyEP-BE4FoN4ql8JDZbobklVLhaBaUgawR8aHCeejasWDQ9hy0emGsN2ZWO6RbhEEAxWCZdDPdnaLJwrYBm1mdI656p1zdyWKX0XhCC_8A1kHw7y1IqNkHymy0032NDGWK3CpmO2QRRk0nxJ1PfF8n_Dwf3VBDhly7az6yh62A6N_eykNyiGz5iRYXhNiuSU1rTQzXI1wTsf9Z-JvQCCC2x9n6qYcnAe-zC1HkqIYmW-88Hm6dF6sy0MDnX14T8f9tS8frpvdD39bU1S6sBGpRiUs3TfsrIWTS8tZPxNi8nqXKgsgipn0XHJpmAVuL_9QnAzxEWCcCg_nO_NKgu4WQHmYmDzl2H92IqEhvO6PFmxEDoh0zrG5LjAq5vwTMHMtfhCAu9UObrayMb0IKGNzDqYPb_LVgIjrMzIXo-4KgyQktB94abqExaacQWf99NZIop2gwL3o-GzAX-f66yKxyq67NlbwkBV0StYWbrhCN5Iux2rJVf0-H8T7WOb8QfzQwsp3N_7HvbT9pd27mIKA6LjcYxOTTTlmENwK1koX8DgLIq0zulL0wKAM1JKdLPAlM2t60M9wKiGi0qOdO7bRWkJm20vF_CNqR8ilXHM7KbIzrSY_utxGwiE48U4wGf4LhKS5tVHiA0NDmXUbh8XRRB-AlgGLhHMyVssxF-CNAe80Fy_HWVbEJPVkcvwhdJCA&amp;c=1394b76a&amp;v=3&#39;;" target="_blank" rel="nofollow noopener">
+    <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+                      <img class="ob-rec-image ob-show" loading="lazy" aria-hidden="true" src="./Homework4_TA5.1_files/eyJpdSI6IjI1NTUzYzU2NGJiYjMyZjE2NjcxMDljYTI0NTUxZmU5NTQ5MDE5YTMzNWZjYjY1NTY0NDQ5NTZhOGZhYTVkOTkiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp" onload="this.className+=&#39; ob-show&#39;" alt="Una esperta linguistica spiega come parlare una nuova lingua con solo 15 minuti di studio al giorno" title="Una esperta linguistica spiega come parlare una nuova lingua con solo 15 minuti di studio al giorno" onerror="OBR.extern.imageError(this)" scale="0">
+                                                    </span>
+    <section class="ob-sub-units">
+        <span class="ob-unit ob-rec-text" data-type="Title" title="Una esperta linguistica spiega come parlare una nuova lingua con solo 15 minuti di studio al giorno">Una esperta linguistica spiega come parlare una nuova lingua con solo 15 minuti di studio al giorno</span>
+            <span class="ob-unit ob-rec-source" data-type="Source">Babbel | Sponsored</span>
+    
+
+    </section>
+    </a>
+   </div>
+<div class="ob-dynamic-rec-container ob-recIdx-1 ob-p" data-pos="1">
+    <a class="ob-dynamic-rec-link " onclick="" href="https://eshop.wuerth.it/registrati_ora/registrati_ora.cyid/registrati_ora.cgid/it/IT/EUR/?utm_source=outbrain&amp;utm_medium=cpc&amp;utm_campaign=Z_Display_leadgen_native_broad_2022&amp;obOrigUrl=true" onmousedown="this.href=&#39;https://paid.outbrain.com/network/redir?p=DqGXlJA1e4V2Azft-mvVTGpUtDNqSjkK7mLSkdVrIUQJqbmzSKCQ_0ZiFjt4UCFxEVBPdGqTn3FoWvAQXtykDP7gpiglOm8AVUQlufQFkflllEiDpgtRfEoEqQszdgLZ7pQ5jzI7DtSrY-8qBrWE_e_vqwRQJnhAQS6nEhH8MbSRlfYAfVCX_ZGsJ0qGwSWvtuemH1C0WJwI9M4h_ZflSwq4k7p2Eg1WqzQlikV-2vNtVRNODcUZdIkOslmbyC6Zej_9TkX3qLyP8xvr0_drm4CYl1JsptcLliTgqgeJZR1ygpmVJgB3q-B5exXYW8rHjamIKNzdqu1opMZ6frZNE781tx_fSLkgoeBxfcWekKtC-6_36uGiJhRaRdaaEv4RycsUNtultS-Wkj6vMs-iqPhKAw7o9Ig1sImmDZHWIH-fsvIFENk468MrMhMhzYb35gIpljh3PgDTMSpiLQMyc_-0zy8YsVIwWVozSrTWum6T85ExXr90-Lrb0zlMVltuscyN-Qr_Muiwuvvl94SE4ykfhLhE81ai2Xr94qlDfVZhj8lOt_k1IeLtwMKXnb8ux8ZJGDC03CgEhbgePfeUwI0zDZaXWRSprpmr8-oe8XFisCT-01blAKP4ind_JLOZIvjtEOdkp_vlk4XgAGWip_hJZAg8siNkflAz09-798zNXsUIx--gm894gzP3pUFx97nSlGvg4tCc3fqC0A9ljo8zGx83UVGMSq67gApq_ZvhfO3bdjKLKBnezAxS6qvUr3cDNFULZ86BZrqQcmaO3jFuDig6-Jpx3oymdVB9GDy_xm3-SUYJ4cVfJLUdVAswC_3-_ZArDUFek_ao1Im77XEBPtTTnOMiF6gT0tqTcIdRLuC_Mlpc1_TK4g-L90n_SCAvafjiQH13GZ3u7TTcSG65NIsmSEVP8b1BgOpPQmJRhcvwSlkPsIKP79wy0QTwOuckC9_h1IN6I5SgstrsXN1psJjeORyLcM40yT9NYcigLekiAT_DPzv4O_Q0iAc-fvAMDADG9oZ58TbOJi_MiM9mWBVjKBBYoQoNcEJRGeF0HuZcnzSXNGJ7Bhv8_nGWjrARdwGQZJkO_X4u5GNmyWZswxlnhNlj4WH9s_3AeiMnNGSrQfu49OgS9SMfxyWldXycaORa0qt96yQucpk0lbfGWk5vS1hJprHIeyzrBOvR3lfoS6k5OR6snCpay3gj3EQb2gRhqIjc5rzPz1yKcP-EDLbWSefroJy_eApMna7mH4a5Je08fPOrpJX5vBkiW-nj4SiX-OsR3lTJhu8NSVAoh3VPBTFj3LpSwNObRZnCr6uNrrDVedTMv0WKr7ZNIiKiNQlTVArumyBmYHaCmd8d3AR025zH36ootE6sQRKFNFentw7IyV4fuHLFmc9IvAm4PE3IvwEQwgkq-VI58SWZ6S3HYBA-dKmhGPiYdQoquAr8Q7K05cmPZ022BwHaRyQpZ5SjJtouel3xp9xaSAqp8ivIkldq0L8jxFEEQ7Hrlhy2y3W8vERAPrQz_t2XVTN2oJryXt8BoYIOj6er5_EDjmeBeQ_c5DHxuCKzNMwPXaAKPwY4IZjLl7JN1S-5LXuP72EbWZw_imUzhsphokTbajmmhvPFKpiT63W3SvGmoJIYOmCtcg1idUusUFPik6wfvgUF5pFu4U5UXbgTa86i3imsUN4pm7WY4pS_ylf8mvynYtED650wItbFM81-VCe7V70_M-VqbSxCP5AOhpvZKqSOz26DV_zEoOhqvqqpB7-q5vrlsWRwlMHRJNXk4003Sr4XbwI3emr9CFdMsJFOmoo5V14eaFt6CdGf9tIsGDnrMgpPNsDEbh6PH6zaqcDjDskLs8xZSDjAvJ4-jH_yPdCa18nMzYHcouEm9EyQ6MPXKt_rHed6gsnIcKtb0RtjjDQLSNDVILQnadKV8w26KA4AHHbMDAtLOWJCnYKge6Fc6nS72lLF8uUjxo-s5N8F799w9arMD09nkcfout0KqhiH03r7zAKF-nsfm0ajn5TH1pm6ptMY8lfQ04psUba5nMdToCxpXaUG_1Ro8Q&amp;c=753a5320&amp;v=3&#39;;" target="_blank" rel="nofollow noopener">
+    <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+                      <img class="ob-rec-image ob-show" loading="lazy" aria-hidden="true" src="./Homework4_TA5.1_files/eyJpdSI6IjQ4ZDMwZmVjYzZiNmI3MWU5YTc4YmU3MDRjOWNhNzZiMzU5NjYxZTNiY2Q5NDQ3NDQxNjU2Mjg2MGRkZGU2YmMiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp" onload="this.className+=&#39; ob-show&#39;" alt="Würth Online-Shop: registrati per avere i migliori prodotti per la tua azienda." title="Würth Online-Shop: registrati per avere i migliori prodotti per la tua azienda." onerror="OBR.extern.imageError(this)" scale="0">
+                                                    </span>
+    <section class="ob-sub-units ob-cta">
+        <span class="ob-unit ob-rec-text" data-type="Title" title="Würth Online-Shop: registrati per avere i migliori prodotti per la tua azienda.">Würth Online-Shop: registrati per avere i migliori prodotti per la tua azienda.</span>
+            <span class="ob-unit ob-rec-source" data-type="Source">Würth Italia | Sponsored</span>
+    
+
+    </section>
+    </a>
+   </div>
+<div class="ob-dynamic-rec-container ob-recIdx-2 ob-p" data-pos="2">
+    <a class="ob-dynamic-rec-link " onclick="" href="https://www.italian.tech/dossier-native/customer-360/2022/11/17/news/le_regole_da_seguire_per_spingere_le_offerte_del_black_friday_e_degli_appuntamenti_seguenti-374788853/?utm_source=Outbrain&amp;utm_medium=Discovery&amp;utm_campaign=Salesforce_Nov-dic22&amp;utm_content=Le+regole+da+seguire+per+spingere+le+offerte+del+Black+Friday+%28e+degli&amp;utm_term=$publisher_name$_$section_name$&amp;obOrigUrl=true" onmousedown="this.href=&#39;https://paid.outbrain.com/network/redir?p=IgZb17sp7tdZ-uZIvmaAQKAbBvPDjEIkIpb_E5I7kg3eEgfZ87KtC8mDvodsqhjeCc2qnsE77cGCUVSjMrU1K5qGzdE-fqYAWUjzZbaD53yRbNM4YJaqq1inM6FcOYPHYv_L0ne9Tt4-CHq22mwUe8uOJBZuyX7sBEuUgzs1gZ6JTSRb0EWcN29kWRyvUCl6XRpG2sEnnPPJNNwTa9OK4b19sTv9B4Neom4WatR1vvIPdNdL3qJuWox-B68oy00tymUQrU4CgUqSYY158ZFq3p96JAtTHfAKEo1Rox-MZzJhY0pxMYRPxdVY983bcGNF_elJu53o9b3a1KMeTynIBM9ayQpwZI21jk5jhkvgdYCQBqJsZ_L3R7oYOOSthwVZxDGo_JY8ZpzGqznoSFRy5gc3CfDO5EKN5EJ6KSDzdjIVD0oDXC4iTYWzoYPp4xrlbiS9MzL_oJEDWoiLUCGRKCH4nU5UN2yk4VYI4-mRM7CC1x-i2rmtC3f7zHxpLHv_v15aeYnTtU7s1F63gR0JYKQ7etyLxsbIZh-JzKHq4cpRwGvNQL-vbo5fLtrx6jgoIIWLc_um7O20i8sy70OKrnOnBlbPipT3YgAE6iNtRhxacemp1tg6k4_0ndb2-BPmq2aZmcZqekqMaBDrozkXMClo-eBM60_CjITdXY3HJEJASWFBUIyzZn3Ap4YSL-yNhAiTpvPkQ5mw8BDatBTdXwdJ6FE0ZlaEyjKbggrMZ2S6T1CTyUMrJnn7BO_TQtQYLZ_c1K71caLAJeZBxS-7BIATgOgKlXT9y7vUrIDE2O4aG3PhSag7akup1f4uN6GumIQJjqOZUrjwYt8ClJ5HewjAiMVYwbydNGFaQZY9mtbf183vXRMB1W43ruE4AX32ZCqwEL0vObJeuy2xq-cVGhyUWAIq5vIgH4TDJaATiYKlg2RZP3qThJaz_HT1LsYR7-0aWOC23SsjVXxtm3DLCnkJZpiC3fphbzpckBXd5iERjFIFocvDy2NKE0XdOrHQSXCkMFdX-XP92PXLt9qezea2qyON6KhQdEKWgFWiO0-6cnTzLsf9G3SLkOlJj912W_OOe_eOxKf-70Nut53HGj7pH3DhmM4p8dodpG_2NkGf24rhnATSc5KYnOlmpWlLe5MWvQQmSTZtPxW9xO7uElrSC4pkF1c6DmId_VIWbRI8oHBde7fqrfYs3mka3LktPBa6xaFPwzaCAngJwb1uhED6_6T7JZRjdrH_X-6TpDgyRKdqn_xA_hHQrd6f2pKoectic950ysq5m3NXVbKcY6U6AKNNSDeOuUDj4riOs0eXtkGhOdC44lxQ-BfUN2I0W4hYvNydyNvuj1I36iAkfX56hLZppGAAb4biu_HcKkO52aAmZLbHO-psuXeSlfKoyO4EEwuMfOEPFpomhmykNFlHtaR9TQ6j9jbMJCXqLC9399iajRPnFzp4_nmFARWSqjW7UTFTXHIXPDydEudm6WdUMkNoNcmxTJDbeotVkiCaVhjz7AqRFMucNCW9qu4ozExXrKUauCKcbHC0pYMO5XmUm_kOVRaZxfpujjg6ZhkaHjsjHddFkrY24CVc4uQzJ0QvnUblDL7ygWNUYyjS2GjJmz-HuopeIyuvimu-KCG8caM9q5eXt39xeKZsQt0C5tjRZU041BZM8dDIltQ6mqcUtUyxxpW5TCrHb_EUGXuwJAX08IyWVbVXxitMRBWAEtAprqTzLeQ7Jv37WEC4UWd1zt4OItgqAUk_sIQ-K-yvIoeyrzvV7bfUCmLlspwFE-8LTAXWM_yKQ4fdr-XQ3yWDD4HyQSfmjDySRn3Dw5MJP4aIPKd5fFMZfdWjgIdABUbhmfLkZ-KtjKB_tyLL8xoqBW2neZysqrt85c-Y8yyXd1tjGRpaa1PM5nmy-ypnYfrPPO8FUqSiuLMvfbHFIGqEKkmP2cY1RJ2PbtXtb634BsK3ARldwiquzADN9YB2M8uChOEQhO0jA3kBpEMxUO73XHwT5_cs8HOmOlfLEuuJnuDxLlRVdTAd0qpfso-J&amp;c=66b61556&amp;v=3&#39;;" target="_blank" rel="nofollow noopener">
+    <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+                      <img class="ob-rec-image ob-show" loading="lazy" aria-hidden="true" src="./Homework4_TA5.1_files/eyJpdSI6ImQ4ZTM2MTFmYzc5OGFjMTFkOGIzMjE1NjRkODhjMzYzODQ1N2FmMTNjMDhlNjBjNzkyMmQ1ODAyNDJjYTJmZTAiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS41LCJjaCI6MTg5NjY4Njc2MCwiY3MiOjAsImYiOjR9.webp" onload="this.className+=&#39; ob-show&#39;" alt="Le regole da seguire per spingere le offerte del Black Friday (e degli appuntamenti seguenti)" title="Le regole da seguire per spingere le offerte del Black Friday (e degli appuntamenti seguenti)" onerror="OBR.extern.imageError(this)" scale="0">
+                                                    </span>
+    <section class="ob-sub-units">
+        <span class="ob-unit ob-rec-text" data-type="Title" title="Le regole da seguire per spingere le offerte del Black Friday (e degli appuntamenti seguenti)">Le regole da seguire per spingere le offerte del Black Friday (e degli appuntamenti seguenti)</span>
+            <span class="ob-unit ob-rec-source" data-type="Source">In collaborazione con Salesforce | Sponsored</span>
+    
+
+    </section>
+    </a>
+   </div>
+<div class="ob-dynamic-rec-container ob-recIdx-3 ob-p" data-pos="3">
+    <a class="ob-dynamic-rec-link " onclick="" href="https://om.forgeofempires.com/foe/it/?ref=out_it_it_2020&amp;pid=$publisher_name$&amp;external_param=$section_name$&amp;bid=00d55c328e577f330e50c560d240aeb764&amp;obOrigUrl=true" onmousedown="this.href=&#39;https://paid.outbrain.com/network/redir?p=jSzFWAPwNy1Kf07SPVkJ1x0RZK7xc3KfTdy2Kfdgw58nFUb-zsz_YxN42UqynD3LRbwdzbtGQG2YqPFSU2Vs_UNNjoYFdbVR6rye9q4P9h7inApbSD8E2v-A5IefkLRN5fGQAEyS38nX3pc5xJEAPdqLOno8AT7sVFrxMDpp9filKJgwcjG0C5D5qsx5HblhE8sjJXKeh7e6p0TNz5dS7OI2vrqlWy6M7nzxnsCH1DyK1j6kiNvDhV7b9pqRIbaQndIShD1BQFePM1IW5nXiBsDT8rbmuM7ImyM2UA8FyjOP30xj60KURr9esxnJfw7KLAN3xMaB4CusqZ8cRENW5SBE7mpZU7s4jjK-rB4PEs8RdlJF1EmN7Iuh_UudqQNS3xr52Amkk-KOY5fWU9vovH2JwMAKLIm-L5pSgvOzz9lKAewLs87lgdo321Dd5-Ph1GBBl3ZN4fzfRqu7CKTe6Wqvb8TLWRBhjOfNBEqIphmN6k1q1oMHJgW1uYa7EcuQKpbc8LnaXyTiABAResg2rDVWeCE6qNNh_4hmfqipi7NgKN4l7aIejyjuh4sH6L2HthPgpP3XsNpDvf0msNlzFqQM7WyfPJbg-SLyto_4CVK4t_dynO4M5n7ADOnq0JSt54xfYLUkP4OP3kWQhHdXncki6-3hSJbK6X4mmd6wRkpAtpwQsnDgUiLDQZQ7ot_7NAd1Vy_BQvlLkbzwpoNjysVVGNI2Re-5NE-wDYsxDpU96D3SB_htHTax1fGxfu62cJV3nCVIpqIX3k3upjrd8mLp-q33GR39K8j40Zm7zIIm-WHcpjtoMYnb7Clos108VMSB0OQXGUdkbV2OQhaUoHl4rJQXUDd9ifkWQCPbQ4tzlE1lhMbEPF4sBzT7Rsv9hyTC7Kv_xWDmH0ZWZZ258WC5Vfl-tRBCu6tiRTbN6-P4fE6Kbck77SCNKQRWzeDUz4d7CtD-tYxSVVnjt-3ztx3VfF9cdwTqYRe1RBpiQ3TZoK9GvFDS4mPRKm-zlcVsSDw48H-ZACSRzKwXaP0zk3bjevJrCnpJKkZCGADBpMa_gtJ9KNpXA28AvfVdMZauw_irRGCozYYJ_w89wJsXo5fzjXipn1TQ4aMXO0pR-vKt393KzSBSYUFVE8uk8cAyYFbf9P9_lpLGnW1EnCrBEvy2BS4z5fiwZaIH4JFMZ3T3wg7TfHBZIChXf0gyAtWEQQHqDQ5QX8FqjGrQfLUMhZKf6-Ipeq_4AUzKC95q_RDobNoHwfofaY2LvEW79d02_NT8ZjL5eZvIN9TooKX9EB9BjXYLCmMLr_OwEDEy1L1lhl3oWBtm2WcJLITJujxORxsW9YNyfyDpMojFXvt4J8OE7CuMrU1hK8UHxAhF-Ox8wB2e_fbs9eJk4Iq-J0Nmq92_uONoWdymXyfvIoxwwhysXW_M4SX4fkM_Cl9LvfG19w9BrOM-8048nTtfZivIt0G4-5VLgUK8XSsru-K-rlpIZoXXtRaNqvhvnicthH1_Mo-dJRoBSIlR6-TFvp1dKKRei-rcG7j91dz4k3oDv5OLtxRFQljSUQECpljBmYjh2yE2Jk9JHrZ4VGA9WetHLb43T6X_fHQLbsB6AEXdJFQJgfv2n4QJsekhTvqDqoK3r8117eyvJNrus-LyTqJnj6ma_c8svaATL9VPdka3uuISX8rYrqlmLS3FdEz7tzHriGfELKJYY6pA5ZOWWxUuMVUobs5vxtNC1kPF0AggMNR8eb9uMip5uuxT-2GSL5sb_bvKxKfjjmygHRts5U-yY-jhSAE7En2-BQq1j2yrRYzU839kkKz50ngnlYkB4vdSvgPSN0orojcHnXlgFsXU1cOCI_9xX8mBfMLXh79G2zOvbhPFMT4LJsac2yHU4Hy4trp2Y6aNfr4EPPu_RwbNKqKSSL4pNng0oKLuGpBKDZV-E65HGT_u2BIdbmxJKq1v8ZVHT7KlrPuGYENZMMyqttsprYCihaDqGBZCsQIwnyAu43ugtbSABbq0gPCpSr0h4Pmy7mpGFWEcaHgdbQSQIB0Br110xVcO_rGIIUiqzw&amp;c=6bbb40dd&amp;v=3&#39;;" target="_blank" rel="nofollow noopener">
+    <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+                      <img class="ob-rec-image ob-show" loading="lazy" aria-hidden="true" src="./Homework4_TA5.1_files/eyJpdSI6ImIwMjU0ZTk5OGFiM2VlYTcwNDNlNmVkMGE5MDk0ZTZjZjUxYjdjY2IxOTg4ZWRjMmVjZGEwN2QyMDRjODIxMmQiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp" onload="this.className+=&#39; ob-show&#39;" alt="Il gioco Vintage &quot;da giocare&quot;. Nessuna installazione." title="Il gioco Vintage &quot;da giocare&quot;. Nessuna installazione." onerror="OBR.extern.imageError(this)" scale="0">
+                                                    </span>
+    <section class="ob-sub-units ob-cta">
+        <span class="ob-unit ob-rec-text" data-type="Title" title="Il gioco Vintage &quot;da giocare&quot;. Nessuna installazione.">Il gioco Vintage "da giocare". Nessuna installazione.</span>
+            <span class="ob-unit ob-rec-source" data-type="Source">Forge of Empires | Sponsored</span>
+    
+
+    </section>
+    </a>
+   </div>
+<div class="ob-dynamic-rec-container ob-recIdx-4 ob-p" data-pos="4">
+    <a class="ob-dynamic-rec-link " onclick="" href="https://mieginocchia.com/adv.php?utm_source=Outbrain&amp;utm_medium=Discovery&amp;ad_id=00206bc99676da148ff197ce0439981be6&amp;ad_title=Chiunque+soffra+di+dolori+articolari+dovrebbe+saperlo%21&amp;time_stamp=$time_stamp$&amp;campaign_id=008e313c66223bf07d98e2507ef986aae4&amp;section_id=$section_id$&amp;section_name=$section_name$&amp;publisher_id=$publisher_id$&amp;publisher_name=$publisher_name$&amp;cpc=$cpc$&amp;OutbrainClickId=$ob_click_id$&amp;name=conversion&amp;obOrigUrl=true" onmousedown="this.href=&#39;https://paid.outbrain.com/network/redir?p=KWAe6pQTl4WjXTZuQQRDDokdyA7_cDBQ9uUZCHdaulm-l4_Vy_iMUtRhNZeu25gjzV38NlCTnAthq7FAYuh23vuoSctKAjBC4ydO9ubMqgjrzIVQdbGefxJAHaWhVYWFHHQPqX226iPM0miyaV6pMwyS-SAH2ldzqVKxTh_ax1rbDy-epNFSt1IKLZzQLgpk52aS6jkBXsDQbe5UAFVBxzsRq_ooYqdkGox22AaVcD4-QrtnGZAcQUwfEH7UxFCD0y9mrLH6x86neVIy0O-p9FM2bS_IYiFb-05bTvnlqr8mDdGR4DtRfl8M4Z72IkvVv6UK3ImKngjg2kOxTT8T9q8xcQbK0oyhTDFLezMHSpgLPWFB5VzWOsqWM8ZbP3nQirGvbLkDLTUYXcUQlpyr4ltfj7RtLur1H5gk7EuR37b6bMnoHqyq8b6UHA4KkJbQycFPvOkvcgaEDT5DXEyH7nYfMGcNvzoNuWmwBDaGMNnH2mj17qZ5S9si-GfHIKAFddeznZrNGuq9ysosdCB0X23Vk5M4t_1aykkd-XAfOrWLaflUtP7LRH0VGYeHsztj1agDMtfYreTk_LVhntPMfLPuU-1aT5qtwxjC3uywPTOhgKlkToXghInn8EJB19nFonn9MdKkb6C1jnwmSLPtCOJF0K3dI9gAZ3poEdxnj4vPebmN7vOn5W9WJxKC7rTgf7UfSLXXnfT-RCGri-UyQL8cfP4hB-AVbkjb4SLYxvgacHFznnJu4SMgcD8KN4oXhFl7NErB1gXxf4eKXhE9uv0uaGv1eU2IQUsNCzmv7diQ9I4jy6bPIVZNp6A_wAf755uZvHbd_CCu3zRSlMjmM5zLGxBfxEbJue0rznUHR7Cr2aYspOvZ3NHTwHdhzjnXkqEw6pvbDnCqq6I5oewso8fON850e8Od9N5i0RwSykuvBeUVgxPDoWm58xTZhvALEyyIQOalHG3JkFDpMBA3qH-hmfuHuQ54VHe2OcwT9U-YliUt-Ntk_LEizi48uu8LjQyhTrCe_CuZgdTf1AocGu3b_4KOmTWK-Vc_OWVmVtnyx6de8kNDyZ4A100TdPZZJ7sM1heM4S6Q3KwMMz9K46n6EmJn41Wco7o73sHCthabVzy_qis3zs-_VMLLY-NsBuYiSL1HfW2gnnL0zQ66bZre-lQsB3MEDuX1g9JDvbma5Pqtpjdg0EGOSVgoaplY1gMx8YZC6FH7BgVh2b60BxBs_okrILh2M_eXyrP_w47ffQmoT6ti2QmpL7iHUhKgk2yrviTTRYmPe5Ag86QtzHchP7iF5cn_nRp1K2AaidxH6nc91vhV5kfn3A5RPtUXaPTKwNJbJtIcDFM-ny8Xi0M6IY9rdmBkzPwDvLmcFY8WhOUIDG0ykkuTgTLNYD6VoJlda4tp7S-Uga7_AtDWPSt0FVhdZive3mJCRqk9d3qxsVuYeAqCiEGeZ1o5qtYgqbMhdAp0nmOJUKtT6368UezkamePz7MPaBXZd-GrKXb5cSTg7Oic0gCWUUb3eyivjITzcPUN5_RGc1xojv26H0ng2h_Qqq_RngD3X4wCeIXzF1NaP--plxwJPJK56uHdh10vlbNGX8REG92cdIOlIX2M4PKG0kgUT2S-Llu_9-Ri8IzSydG2-Ez2yC9aDsnz_ahmlPYxlitRMhu2G3ivy9X_vhmGejaI_RHEUGfJ45Loo0wWyeUxm4sV5jLYAir1_xwBq58HrEgBe0Nevk1v29beS5a3xBvNPtumBvAfq4O2iEvXo8UA0qNVndHdV80vvXMyGH3SPeUGltUvGBXBBkNHtji4C7kFMxW4XIVmfj0x-szLt-RZq96KmDhjw_vg6s-uZeJF9AB82zdCMrpx9uprUmMdPtDNZzSd9OR3zB2yJgdDJKD56JrY62_d4wycDPtZrhxsvcSdkbuWPHzxoGtfBhAQ0lmVlY9dYH8Yo39QAJF48CgS7eH4LQS71mzKTg5TDNObQm61bLXJXg4ohBqPaMzc9Y-hr98y7gfiwAWlc5PyPHJ-yjJi2bSl7yYxa6rkXeLWLBrSH01-aY_HlQ&amp;c=102bb6d4&amp;v=3&#39;;" target="_blank" rel="nofollow noopener">
+    <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+                      <img class="ob-rec-image ob-show" loading="lazy" aria-hidden="true" src="./Homework4_TA5.1_files/eyJpdSI6IjkxY2M4ODViMjYwZTRlNjhkNGRjZTdiMGM2YzVkM2MwNTQxNDQ3ZTFkMjk2ZDdlNDBjZjRhYzZjMTQ3MmMxNmYiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp" onload="this.className+=&#39; ob-show&#39;" alt="Chiunque soffra di dolori articolari dovrebbe saperlo!" title="Chiunque soffra di dolori articolari dovrebbe saperlo!" onerror="OBR.extern.imageError(this)" scale="0">
+                                                    </span>
+    <section class="ob-sub-units ob-cta">
+        <span class="ob-unit ob-rec-text" data-type="Title" title="Chiunque soffra di dolori articolari dovrebbe saperlo!">Chiunque soffra di dolori articolari dovrebbe saperlo!</span>
+            <span class="ob-unit ob-rec-source" data-type="Source">mieginocchia.com | Sponsored</span>
+    
+
+    </section>
+    </a>
+   </div>
+<div class="ob-dynamic-rec-container ob-recIdx-5 ob-p" data-pos="5">
+    <a class="ob-dynamic-rec-link " onclick="" href="https://inmyfirsttab.com/api/redirect-search?sid=23343&amp;cid=$ob_click_id$&amp;subid=$section_id$&amp;adid=Sempre+pi%C3%B9+persone+stanno+passando+ai+telefoni+VoIP+%28guarda+i+prezzi%29&amp;cat=$section_name$&amp;pub=$publisher_name$&amp;pubid=00adb3f54a2c9b9520202692c27ac98028&amp;campaign_id=00adb3f54a2c9b9520202692c27ac98028&amp;campaign_item_id=00e606a1c9bad167b49717f9bf241fff56&amp;obOrigUrl=true" onmousedown="this.href=&#39;https://paid.outbrain.com/network/redir?p=uIJ6YHMF0oobG2GHmV2Vrq8pKlshqxr50SjC0Pa0vvQ_3j_Ld-XHmyUmmVGamhfnaTe7VYw-IalWUlfEdIP_TKM1opGnHFu1v98O8nXgdb4em7VdgymfcGeG7qp_RbDal13cqhtDhQsIDWKB4bEx06m3ayb5Ms_NPWkcxxTmpdNecf5fv9Tk6r4jqJKyZk38ARuBQ3ruBM_gw3tJfZ-KRNP5_5JpKakJ3TCMUimaX-zhdBTrcu_wrxpV56IrqHVGjZ2Ad8R5d_wNCwRgEbQr0ZhNCJXeLFNlDcoO-z4SUuH3sPH0i6kFWAt3f0Pn2cumL3GcvPoiNR6LHbf5TX2EiQ1krZmYUjq7Ltm6BpidXtIBq2C-1sXcYX4k5KekJUFrpWHqPFvjEdBMZLZOb5ltAsArs7yFOuaS0Aq63IfHvqdGvGkHt3r3Udfj-taM0XZmjWtFvVd3ycR1GZECGCBNREE9kN6ggWR6ZIuou5uxs1cV8JEavXRP5Ju_K4vR9dj3hdQbCJgxWqiMoT4qDc9D09b0v_E8DpfBmbUcDbjdjcb5oZDCuHe_GexcZ6wKDvbOPj_XAFL8a-wXvt9XMKNYOFGsQACTmTFVgv3QkUcP2N2ygDtN2fC51Bssogn3fNJmqgE1IlcSh10Tsy-CyxgORGWQzp6Ue_M72tWvGfaxb2-pcq1WtH7G6RY097LZBq_DHFqPFE_LvzUy8qZJXgqeNjPJ6kzhRUmPKbB2DmOjkVzPXsZqKnH36FUHXNNe5iY1CHcptljo0srqdjHUGS2UqQeMpWWlM73d8gS8odyt9u6IRPqA2EaTCcqT7jix8Oy8xq9YCbq7rGVb4oeE7uJFZlah7hgm1SJPeZbIsP-XBld15qyMnWqxtdscMZPDI-2OyG5Tx6Ipti6gPTpkjT3wsR9ruzPfhUPri86RleYJI2pbl0c3wCdZFW_BsyTIlEiIAJfjQjHW7WXoFKzu7FLtKqnJAOa7PECm0Y5oJQBJHkMjLMaT_POBoHSah29SHiHIvt1_styY8AGEzEifiDV8RKLTVORhzS0zVJP7lJNUCHvc7ZydeywCJfnG0jWMFUl1MhgHGrfg8QS053Wa7hT63eMawIWrkZy2xLwHrGKa_LcwDl2gdlW1Ol0IROHbihyUnE3ckaFyX5cQvLtfH_FOciltsoWiqE0wKqgX84hc9LrrTiTtHUs4QnQhk3i-KdcIqT9I5ztYwkYzLNQTLr6WkwEV8VbOLcH9eLzelzxf2jDgtbYFgOCyzK_KkJS6JiWL31mFF8nYc-gBi2oPVd0tFqSCUfpkjFgX84xy0aJQsxN9RbCsFPZrUby8tQnzDOd-Qmj3-5UVravVA7wuOPVggX9fweTbQWT4sMH0pm5jQ-LnOSmCS9QtsCdjZfyBceCCvwyFh5jyKjnOdfMetFuSC-t0EvOw45O3_Tg_rlP2ksyQacUsCgpyghRenvuJKLyT7FezsTd7Rl-orLrS9VwSjZkxxVrfcusx5DuHDUesyVjMiBJHPabbo_ucVCIuLMY8Yz6FNNoCTMbyvy-ksv2GrwgMqhV5RUrC-_tKzcKwmYYcFjlQMbioU1Umc9aqxDLwroIV1h5rUWVXWcGg32VcbRMhv9z1qq9QVbXVcItVi1cvDuMEev5OLvVIwjt_FF07gscUJzcfq_2P4zRgct_XG6ImaSB4XD1Q8ol1ycIpZU9VAa2ZKdHmks9kS6KwRH5cRYvGSP0fiGhucfeb7GctjJFvayjHQ3Hq92nXySk4Rdeoulxg8D1u3Lcm3swL-BaOqMqlCsozfbs2Dm4rq0On5cUWILjbXE-Uy_WC4pfYwVlTNHjKLFEwVLn_-f2GHiJrM8Rq91o3aBLe5gzQyK7EJ1vzx8FGybYD9xwdZeLPr_AvJlcYW5aajypshPCunQWK6RKL9VQPUUu2q0ixeW_sfa3aH8-pDNHQr6KELf6V58-Ta0QflTkL1NiXvz5NloaeVkogRPYhXiRaf7o1d-rJPTb_5YNqYLuNQ8Pcq_88x1gX3joG13JDtNw7qwcXVBUfaIYGYP0JPR4rry2HG5Yfzl1DQAQ5HhjVR2lbIrZK8Po&amp;c=314f51aa&amp;v=3&#39;;" target="_blank" rel="nofollow noopener">
+    <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+                      <img class="ob-rec-image ob-show" loading="lazy" aria-hidden="true" src="./Homework4_TA5.1_files/eyJpdSI6IjVmNWZmNGM0OTIyNTYxOTI3YjE0NGU2M2E2ODJhMGMzMWU4NTg0NmJjNDQ4MTc3YzY0MzMxMDE4YmE5NDZlNTQiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp" onload="this.className+=&#39; ob-show&#39;" alt="Sempre più persone stanno passando ai telefoni VoIP (guarda i prezzi)" title="Sempre più persone stanno passando ai telefoni VoIP (guarda i prezzi)" onerror="OBR.extern.imageError(this)" scale="0">
+                                                    </span>
+    <section class="ob-sub-units">
+        <span class="ob-unit ob-rec-text" data-type="Title" title="Sempre più persone stanno passando ai telefoni VoIP (guarda i prezzi)">Sempre più persone stanno passando ai telefoni VoIP (guarda i prezzi)</span>
+            <span class="ob-unit ob-rec-source" data-type="Source">VOIP | Link Sponsorizzati | Sponsored</span>
+    
+
+    </section>
+    </a>
+   </div>
+<div class="ob-dynamic-rec-container ob-recIdx-6 ob-p" data-pos="6">
+    <a class="ob-dynamic-rec-link " onclick="" href="https://trck.tracking505.com/76a627a3-3d9e-4537-aeb6-8310749ba076?campaign_id=0015ef2f0f56123bc56f097dcd99e8ff77&amp;publisher_id=$publisher_id$&amp;publisher_name=$publisher_name$&amp;ad_id=00bf6e96dc86e5ad2b268a47ada792fa42&amp;ad_title=Letti+intelligenti+con+tecnologia+integrata+a+basso+costo.&amp;section_id=$section_id$&amp;section_name=$section_name$&amp;req_id=$req_id$&amp;promoted_link_id=00bf6e96dc86e5ad2b268a47ada792fa42&amp;time_stamp=$time_stamp$&amp;cpc=$cpc$&amp;ob_click_id=$ob_click_id$&amp;obOrigUrl=true" onmousedown="this.href=&#39;https://paid.outbrain.com/network/redir?p=LNFic38vl4zT_lMWsNR49WY3Qx0Uq0S_UdAhDj8Gd20j0GstiV_a9rVN1fmtqY2RbhybTfq92MP-MEAJoX8necBQLsG7ab7yMwP0jWnU9agN8uOBrBdIWWQiLvXxcRLNCFJF9lE_7UnU09EPwEkO46r_zY7btoVKNgwBVB5PeXOi7cto8fuYZMTVj9fGVpPS2csQqiH_axjQ3jsreEWvU9IZzJDOKXeg-isicrLXH-3-a_fpAGr9Z0X7Kcqq0OsyHzv4LH-dck_nDzABsyJftgOCVI3km6xcPluTASB61i08qKV7VyIoZwIHb9FYHoXIuBnpGUeOHaZfMhgDhpXPuQSvTBQ-X_8S3skwFoj94YIEqD3Tte5ofDDf1Lf4duMLcor_-ZxnA7F6I_5seC5w68oLvFIK0c3IqAPFKzYRW-AQ7NO-KhIMN8bVimawzd-oKAdB9-VATGTVdHIPMxrSa2lmtzy0FdrsVG5JfFUhREb7b6QwrrNs4aylqM195aObpBg1U8Rum8QKyuXK_tyboAmFbjGFLTD9veD4x5KFwDcZ8ZCu7tXwPceycRMrazwhm9sbS7B4-k8uewByeIZLjtvTz3s_8_BzjXQM5fAzTR5SqxGKGxo7F7jqwPDxhOor0eexG9Vu4BkzB7avkPxvJkOi2T1RZ-C5rbu2veiHq2bFG3i9MZ7NCod0cs8uKG2cE0p2T1SQ8aB-emFtmaGRLDMV6Y6m_C-dMr7htUWZwANCOk6XIOmE52TlDv2KfobKAyfteYV4hPH2YFqV96XiGjFABC8u9B-neZfx5IhaPy6wf4IQ8MDc0hWBYQg_PTrLYWkgQHGUgj-WOeMpAwDT5ZOvA7xZJXmYVk4T4-l-LznPBh3D_9dV9I9VQVSMjp7Pxd8PkjMCjRNDuAx0YjFsoihs4HhpzMN5zArxkCEF1g9G7rhiAMAKv1AcgB5QX6ZY0N9oCAJII2cNFvnYrTcVyW6yRjLkrS5K50kBBMoXK6VGuXvQCwlVCDcyJMtTAPZyJ2RbDIYlbIjjyDuLOws_5jxkPoc9ouysm3OhQ-bq7C5eoeFoG8f_SgH1Lmd3Kxtsyyryn_CH635mzhrN_rTfZ6bC7orQTjDdqg6j0oFA4sW8xcLEI3diyxeGMKX3G0_rZeSxcGP9DOF88vxkTw4uMWgtsGvm7vCID-GJYxZiHwDNXFYj_7U7X7JsFUOHyr69KS1nIWisF7EO9XboPFNz3L8r6SLzclpd4dVugF3IBMkBFxYAlbjw5SCV6grjVVOFNwTtfsQ4se52ZiZUd3hDKRlF29kghYLrclq0qZrJInVbjm-JyUruBUKdBn6K2ZKG8i_QwXE7eh-QJmvZE_yvtC_3AwtPNHEG-F8ET3PPayIPUVdOagc3si28GtkgrY7_9gdY_Oe7CDLsdoSQqfjsJrWckS0KwnSHMo4GfK1fF0MkNCz5pgSsS6xXNXnNqwF13tCzoB807neKpfVpGd9yq3nnFaTgy_Jwt2UX7CBzTOguB3goX1BbMH4BoL8NQ-oMoOy2ZcNNO6ujgH1msUJv5FUcfw5U1Y96Yr4C2PsTQ8YHw_E9rjaUnzpc_uLZvSTZy2bgtRyCPnjhuonA8Zr2i7K7wK3Jd76oIbSfGqg9nii9gAtN86Xk1XS8zs6juENXCGrrdfrXrJY5UENepKt_khbZZhln9Jqoczu0q5yNaSQY1dVwF2x-di2jrlf35bBhlhXYQMHPceCY7XhbMUjNVLRx7zUcw5HvgFvPVVtPcg-o-kCtYui208YohVKTy4gSI-UtKaBvu8l3JmWDh23T_t8ZPd7I4xcJ75crMKrN1HBSE6MwxKci51dhJC5l2szXtYWbQRNkUCLi-21Bjj9wBwqU-amIm4kQNlkjb1nfICUJrrhXFGvHdlaz8R51CWsq3NfewqBZny5esPs4SDcGCZzjU6QvZXpnb5PYAQW_O0LOI1zsBrus9ldgFwX_Jnd6aCF5iRUQxzH2A-CJk8kExIQm3obCr1GvmnbPoWNkTFH4wdzUdySS0fEcX_h_9mE2sCrblDBCElU7j4DQt9YySA&amp;c=ae52bf87&amp;v=3&#39;;" target="_blank" rel="nofollow noopener">
+    <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+                      <img class="ob-rec-image ob-show" loading="lazy" aria-hidden="true" src="./Homework4_TA5.1_files/eyJpdSI6IjRiYTQ1NDE5YmQxMTMxMzViNDljZjRkOGExY2JkODIzMGMyODVjYzZkZjRjZTI5YzJjNzE5NDU4YzkxZjk1MzYiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp" onload="this.className+=&#39; ob-show&#39;" alt="Letti intelligenti con tecnologia integrata a basso costo." title="Letti intelligenti con tecnologia integrata a basso costo." onerror="OBR.extern.imageError(this)" scale="0">
+                                                    </span>
+    <section class="ob-sub-units">
+        <span class="ob-unit ob-rec-text" data-type="Title" title="Letti intelligenti con tecnologia integrata a basso costo.">Letti intelligenti con tecnologia integrata a basso costo.</span>
+            <span class="ob-unit ob-rec-source" data-type="Source">Letto intelligente | Ricerca Annunci | Sponsored</span>
+    
+
+    </section>
+    </a>
+   </div>
+<div class="ob-dynamic-rec-container ob-recIdx-7 ob-p" data-pos="7">
+    <a class="ob-dynamic-rec-link " onclick="" href="https://www.arte.tv/it/videos/103127-000-A/berlino-il-misterioso-disastro-aereo-dell-aprile-45/?cmpid=ITd&amp;cmpsrc=outbrain&amp;cmpspt=social&amp;obOrigUrl=true" onmousedown="this.href=&#39;https://paid.outbrain.com/network/redir?p=CTpfp_s46x9d1cTPzgBvyaop00z8PazQDHBGVizeMETF72HwQa2QITDBDkP3pyHMIazUDr_05anqH02aYrDSPig5nOZmtcM1H7L-LXeHX0fQhvx_3gCbG33xyVT1AyUCI4Xw3w8_ba85M1qm75ehIMC_73cls5mgH3b_o6W28N3_Tk4BXTOXzYnwNH5LsMwjj0SfGCmzwbImgOdGXQ1R5ZHaem3juuCS-_MaT5SkfysIqlddbpOjhL21nU5hrqsZMh4tybXPbtsQmWZb62xiK2_QV-LsaFFl3nyydXrsoJtUQgZFNM7-uv6xYr_-Kx8RZi2JeJoVeyQAXEI3WHWV8-4BoXZMxObCmniI9JY37KMigN50xyQehprsYICjLe7RlG9Vaqs4tvrHS5hWQX5n5aWV_Kb4ZMmtiVkICz0hl-0SMhfzTiuAEJPzv7yRVdyU5YuxhtU3ggfo0alPChgoLQI5Dmxr1DOZGeoT0UImpbe0EfR7JY4wlM0neCHLkoKpz1zEHhJO87_Y23bUDy43_EY2r0YbSoUxDXh8-GCbQQ9Sm8yhVIkO7U9JzrgKxvMieLNtGTz1y9C74iguyFMX6dhpmp-tby9qmScUghpZ0hb060o5KdDRSWUX_H8AwqcIcV9qQ-XICWeMq2iw5V-NPGfxLSGj4kv2QQF4HZjdmixHLtz3hHO4Stejv7g53OnK8Hhq1PJtQYR-d61M6gvkb6IZu4dl2etRQuS4z0pw_2ZPwCfWBjOCFUllY88NSq4yQZ1h09YxBWVUk5GpkTgZ4gPULD30B0uDqvII1eHt7fDn43aJovPSvKrOsVF8YsgBTIHPNb1zRL5SKXCROjZyy5m6uWOH5_NPfhS8187BbCPgEkRBl-lXHjD3e9jC2E46HHnTKXpQ-VA7a4uvhgeeL-sWHK7oADsH29-StXgf3BD4XazTQyqttlwtSAX8h3cM0dv8qJBNHGYZaAvtt2jovdwqFmLhchnuE_3_7La2mB0RkLI7EBROkWqnmxqtBdeYUpVwRm1RH9Up_L-4_oG9pGyQNIYOFYWx4C9mJMcZGlh9cQYOMU3QYUwzn7Rqkn9WxbdbPqGZHLZpvLQumNo-dqF3DhO_u96h1JIEmzKtAX8D_E955ps0Swa2DFtsWf1XRSdZh9p8rTiop-U7WtccmEhMG9BBVsIhBF2Ic1TwsvRArtcamyrFal-6-HeMwMNjothJaIlQVvXeGMUsc9Ty7hV2LVdIqxtrEdrV6_1aAeo2Owif4jpPiRJXgWc76L7i06kvlQ4--tpNESreXD9zlUSBLx7sni8DAmj6IXO1t8eZQSp6j5dAf4stgkBvECzJSglxm71vvno_pE-E3hTK4YwHFoTpewpBgjlIluLfNMUqVY67TeuK5VtCEvPFfXfOv4PQm4q3IZrCpPDpPJIYlwWy17cpX1438rMhaA0zzUsN4N3pr-LO1NQNRZjPy7GkCkGwHdDJFXKFaKb1ya9-u_O1bhcNVPvtYST-A5oZxYwZJkCyBGdnmP5lwstzpKYeQgQdq2Xf8mcIgmsssYWfnorJZ8Ts28yBKqaYli5JzznMQxUHkIdvUkX4J2S28JprH6CsCoD7hFYfyYjC8Tn7dmjBRC32aLJN2L2AHKkh3NzHbJ2VI47ykdre9YOryDZjlZLXV5jmvwdmWPvNq4arHMruAGQaX4iwh8LcI5YHvRUgO_2dx2888RlEtRCdVTkQeQEBsYGU3UUCKQd7jDFF5CMHEnFCIHrLfzCio7MHi-223XLElr7Klx15hkMF81Ri1nzZqAz-OzMrpSdyMpo5vHDj6oKUqlty9e73xOyg7kuvjl37LYfnDFXRRJG5D0swq53Vz3RkoXWlocMj9UD013hXAGAZ2KHK5Ho3JG4_zpahUeDIztV-lKmEPMBDKkMl1W5cfhL5gurNeAFsOmmjEr8zCHlueRvZO4HA4qN89bRhlPHXw_Yuyfo4tn2YGDTwOfyimwWpyLoevtxgHJFX_MG61l915z9xuyBu1rCdvc1MNfXU9IylvyjNrScQMG_JHwAoqh_VdkYbH3-3rp_2mg&amp;c=97cd320c&amp;v=3&#39;;" target="_blank" rel="nofollow noopener">
+    <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+                      <img class="ob-rec-image ob-show" loading="lazy" aria-hidden="true" src="./Homework4_TA5.1_files/eyJpdSI6ImU1MDk4ZDEzM2M3ODY0Mjg1ODNkZGQxYWZiOGQ4YzkyYjI1ODdmNmE5ZTc0MWMxOWNlMzY2MDBkNjk2MzhjZmEiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp" onload="this.className+=&#39; ob-show&#39;" alt="Berlino: il misterioso disastro aereo dell&#39;aprile &#39;45 - Guarda il documentario completo" title="Berlino: il misterioso disastro aereo dell&#39;aprile &#39;45 - Guarda il documentario completo" onerror="OBR.extern.imageError(this)" scale="0">
+                                                    </span>
+    <section class="ob-sub-units">
+        <span class="ob-unit ob-rec-text" data-type="Title" title="Berlino: il misterioso disastro aereo dell&#39;aprile &#39;45 - Guarda il documentario completo">Berlino: il misterioso disastro aereo dell'aprile '45 - Guarda il documentario completo</span>
+            <span class="ob-unit ob-rec-source" data-type="Source">Arte.tv | Sponsored</span>
+    
+
+    </section>
+    </a>
+   </div>
+<div class="ob-dynamic-rec-container ob-recIdx-8 ob-p" data-pos="8">
+    <a class="ob-dynamic-rec-link " onclick="" href="https://www.loansocieties.com/it/moglie-rimuove-la-vernice-e-scopre-il-segreto-del-marito-dopo-50-anni/?utm_source=obr&amp;utm_campaign=00e74bc9137c7c299c533a934b427f2685&amp;utm_medium=referral&amp;utm_term=$publisher_name$_$section_name$&amp;s_id=$section_id$&amp;cl=$ob_click_id$&amp;obOrigUrl=true" onmousedown="this.href=&#39;https://paid.outbrain.com/network/redir?p=-VP7wG4s-KPNwe5zfoEc6j5Z0aQ5ifY2QUuHGCUvahuyOR2Y4Wf9UiILQ5rwW9pDXB5MERHD07dju_-MQWYhG2C1B2g1beC5Tw4yLBau-huE3XNeaY5nFIDpPaSyEvi6wZT7e0kpxWL0UcEmt5FQp32ME_iHCjqDr0Y5ZHYah4ZxHwu5CZVb4QQuyW2O_FyMxPkQdF9Oc6QMgUiqZI92fcFBDXwQEG0wU0rbGLY433QfhVgIoiMFCY5Cm20yxDFngAmOi-AmfpIMFnAKPOPnQTb2vXIaXtE_9E5sCkdal7IkrbMhZM8RAXMvG4L45JCqkY99BxMCSGFCscFw8zn0Z5jyi8jtfn0_P9x55nIWJ1sA4FB8mI6jFYA2CsdDP9P4fIH1pWOGH_sl8QHrOta-8bP4qiPilyfPJUsCcuHwipzLRMIURUiD_i1PrlRv7xtZsRvxIfKjMXXyA75AjvBrerta3LSaAtLJjrHzFCY4T0th9uFpUOrfYcmbD0asWNPQoWXs5lxR5h64ug2UF5Kc5L-JRNajstke-QwujcHBrkNcUXPVqU3fNEmf-EZGXs4b0KTsVCc1bcmIXhnZYcOAIKFpWfB1s94grcU9wxzdJrj_V-ay6akETBiHe9DJUlNBf2ijBqeNH6WlYB1MfHIW6YCmg49bXfNNknF6ysGsH37f-3hdiFoFArCl_38gypVkAvqqCc7mHRjb7YxMN64fOzGPIthyk7O4CERpsoGfFcVTPLdV4D05ygkzrdWd6nyf1IXunY_to6MZcaEy_AozX-HGVevWJnBvez-JinkRFT9X4xlnViZ4wV8dQxt-esvTBNP56CuBDXSGdfkY1ntud9TMF2H27LYf5Mkdd0ijiJc-Y-rLODcrLz5obQKYXPiVpDsEEtcBhElqmOC6Prwg9OI6a0ikarCoaasoFYB22x9rRoq7kjB1lVarGhQghqJNKaCHRib-xsg2yPUQpGFvSvqpF-Z_D1qph_0BgbTWFKGvcgMSJFr9iyTq4a4p_fvI4diLUsPnbuuIOiEAiw93bVN2OHPS7LAWYAevGAgpbmghfjkmamHqUV9t8gQMycuAa6s_wxlUu7rtBM-MAtEDyMnCqBfhJUld-WCDP7vWybtpIHjMyEzhZ4WKxef0FLiA8rOR1g5YcpbOWiaLRgR6xclS4TQcd3_AM_R7ulVmBjsAd-eU55mIJzNOMq-O9GihB7T-0F5K10BIFfepYRirsDUzYdyaXvAmTDzyRuBJI2ChL8tClN4-XZHFziHyoefgUQk3-EQNcE6d8D0JDc1BTwxChHNPbmBxF6JNo84gi5qp4O6BmLhXMZZDwgUhNfHnJl7ieEXiEmYMT1gbGEJX7167FFN3K5cXUNQQwDr8CH2Fy5WENoN5f_xWjXb9qU_jaO2XLqi_pEyNWSFUEzIhup9EtUbBruyXwx9eOcH1sZmf-e8woOZO4TImEr98Fea-9OAt4ioAhKHBh147D-kuixuJaMBPdVXo5XPDkjUOKX7TEmrToA5PMXn1naSnlViFJzg4ZSEaP3jUY-77yeiYusmT9S7dk4MMWff_Qq8c1QujE9_ovREPXQSvcfp6JtbSMd-AlbVFksleHE5k4tq-8mQ7luG8iOxtOIix7gelTX1uRr8xSOY0GR_PeL9LAX6pMhx-w8k_uQBCMVpKIPGDNafnOAusu71DM8d8vN-WVE-epzgfJy3FFL1TZWfReCpFihiazev9Fbl-t1Bz607aczf8EITCk84G4_Gwxvs3cVLD2IxfvXdkjdXBPL4d4dPi7vVacQyfE-kZ3CCzpqScf2Hn0lFVbb52BMD0hV_nCmht-Kf-0WkuB5nYPt1Rro9kpMxIIzaZnRE7ivP2DaI6gjh0EcqEWPUFypXWwoigyzXKAegC9diIDReCAoGZhXOAamLm-i3ofBMLHvGKXK0B1hRsC-tbyuNCbLOC3uiRbxOaCLD2CpzZHsPqnDdEMH1A8tZq_zv29Hix1NlfUntLzLCCIfYce_sfuDHVY7aZ5qeQzvYb8i3aZYqXPgX4A_DG5r07dPRVpfmLI55T5nhq4rGNhzTA2rTych2LYESnKJ8&amp;c=ff263438&amp;v=3&#39;;" target="_blank" rel="nofollow noopener">
+    <span class="ob-unit ob-rec-image-container" data-type="Image">
+  <div class="ob-image-ratio"></div>
+                      <img class="ob-rec-image ob-show" loading="lazy" aria-hidden="true" src="./Homework4_TA5.1_files/eyJpdSI6IjZlYzhhYzE4ZDlmYmIwOTE5NTllNDg0MjNjMzJlN2NiMGQxMjMzODM0ZmEyODNkNGE5NzU3ZWI4MjJmNzA1NjEiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp" onload="this.className+=&#39; ob-show&#39;" alt="[Galleria] La moglie rimuove la vernice e scopre la bugia del marito di 50 anni fa" title="[Galleria] La moglie rimuove la vernice e scopre la bugia del marito di 50 anni fa" onerror="OBR.extern.imageError(this)" scale="0">
+                                                    </span>
+    <section class="ob-sub-units">
+        <span class="ob-unit ob-rec-text" data-type="Title" title="[Galleria] La moglie rimuove la vernice e scopre la bugia del marito di 50 anni fa">[Galleria] La moglie rimuove la vernice e scopre la bugia del marito di 50 anni fa</span>
+            <span class="ob-unit ob-rec-source" data-type="Source">loansocieties.com | Sponsored</span>
+    
+
+    </section>
+    </a>
+   </div>
+</div>        <div class="ob-widget-footer">
+<div class="ob-pixels">
+</div>
+</div>
+    </div></div></div>
+			<script>
+				sas.cmd.push(function() {
+					sas.render("sas_110354");
+				});
+				
+				window._stq = window._stq || [];
+				window._stq.push( [
+					'extra',
+					{
+						x_wordads_smart: 'render_sas_110354',
+					},
+				] );
+			</script><div id="jp-post-flair" class="sharedaddy sd-like-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Condividi:</h3><div class="sd-content"><ul data-sharing-events-added="true"><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-260" class="share-twitter sd-button share-icon" href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/?share=twitter&amp;nb=1" target="_blank" title="Fai clic qui per condividere su Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-260" class="share-facebook sd-button share-icon" href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/?share=facebook&amp;nb=1" target="_blank" title="Fai clic per condividere su Facebook"><span>Facebook</span></a></li><li class="share-end"></li></ul></div></div></div><div class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-loaded" id="like-post-wrapper-211089482-260-6384f66dc15d7" data-src="//widgets.wp.com/likes/index.html?ver=20220105#blog_id=211089482&amp;post_id=260&amp;origin=statisticsfall22.wordpress.com&amp;obj_id=211089482-260-6384f66dc15d7" data-name="like-post-frame-211089482-260-6384f66dc15d7" data-title="Metti Mi piace o ripubblica"><h3 class="sd-title">Mi piace:</h3><div class="likes-widget-placeholder post-likes-widget-placeholder" style="height: 55px; display: none;"><span class="button"><span>Mi piace</span></span> <span class="loading">Caricamento…</span></div><iframe class="post-likes-widget jetpack-likes-widget" name="like-post-frame-211089482-260-6384f66dc15d7" src="./Homework4_TA5.1_files/index.html" height="55px" width="100%" frameborder="0" scrolling="no" title="Metti Mi piace o ripubblica"></iframe><span class="sd-text-color"></span><a class="sd-link-color"></a></div></div></div>
+
+	<div class="wp-block-template-part">
+<div class="wp-block-group is-layout-constrained">
+    
+    <div class="wp-block-group post-meta is-layout-flex">
+        <div style="font-size:var(--wp--custom--font-sizes--x-small);;" class="is-style-post-author-icon wp-block-post-author"><div class="wp-block-post-author__content"><p class="wp-block-post-author__name">1957545</p></div></div>
+        <div style="font-size:var(--wp--custom--font-sizes--x-small);;" class="is-style-post-date-icon wp-block-post-date"><time datetime="2022-10-26T15:06:23+02:00"><a href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/">26 ottobre 2022</a></time></div>
+        <div style="font-size:var(--wp--custom--font-sizes--x-small);" class="taxonomy-category is-style-post-category-icon wp-block-post-terms"><a href="https://statisticsfall22.wordpress.com/category/senza-categoria/" rel="tag">Senza categoria</a></div>
+        
+    </div>
+    
+</div>
+</div>
+
+	
+	<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
+	
+
+	
+	<div class="wp-block-group is-layout-constrained" style="padding-top:30px;padding-right:20px;padding-bottom:0px;padding-left:20px">
+		
+		<div class="wp-block-columns alignwide next-prev-links is-layout-flex wp-container-14">
+			
+			<div class="wp-block-column is-layout-flow">
+				<div class="post-navigation-link-previous wp-block-post-navigation-link"><span class="post-navigation-link__label">←</span> <a href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-pure-theory-h4/" rel="prev">Researches about pure theory&nbsp;H4</a></div>
+			</div>
+			
+			
+			<div class="wp-block-column is-layout-flow">
+				<div class="post-navigation-link-next has-text-align-right wp-block-post-navigation-link"><span class="post-navigation-link__label">→</span> <a href="https://statisticsfall22.wordpress.com/2022/11/01/researches-about-applications-h5/" rel="next">Researches about applications&nbsp;H5</a></div>
+			</div>
+			
+		</div>
+		
+		
+		<div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
+		
+		<div class="wp-block-post-comments">
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are open, but there are no comments. -->
+
+	
+	<div id="respond" class="comment-respond js">
+		<h3 id="reply-title" class="comment-reply-title">Rispondi <small><a rel="nofollow" id="cancel-comment-reply-link" href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/#respond" style="display:none;">Cancella risposta</a></small></h3><form action="https://statisticsfall22.wordpress.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate=""><input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="a47c1bbc22"><input type="hidden" name="_wp_http_referer" value="/2022/10/26/researches-about-theory-relevant-to-applications-h4/">
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest">
+
+<div class="comment-form-field comment-textarea">
+	
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Scrivi qui il tuo commento..." placeholder="Scrivi qui il tuo commento…" style="overflow: hidden; overflow-wrap: break-word; resize: none; height: 38px;"></textarea></div>
+</div>
+
+<div id="comment-form-identity" style="display: none;">
+	<div id="comment-form-nascar">
+		<p>Inserisci i tuoi dati qui sotto o clicca su un’icona per effettuare l’accesso:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/#comment-form-guest" id="postas-guest" class="nascar-signin-link" title="Login via Ospite">
+									</a>
+			</li>
+			<li>
+				<a href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/#comment-form-load-service:WordPress.com" id="postas-wordpress" class="nascar-signin-link" title="Login via WordPress.com">
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24"><rect x="0" fill="none" width="24" height="24"></rect><g><path fill="#0087be" d="M12.158 12.786l-2.698 7.84c.806.236 1.657.365 2.54.365 1.047 0 2.05-.18 2.986-.51-.024-.037-.046-.078-.065-.123l-2.762-7.57zM3.008 12c0 3.56 2.07 6.634 5.068 8.092L3.788 8.342c-.5 1.117-.78 2.354-.78 3.658zm15.06-.454c0-1.112-.398-1.88-.74-2.48-.456-.74-.883-1.368-.883-2.11 0-.825.627-1.595 1.51-1.595.04 0 .078.006.116.008-1.598-1.464-3.73-2.36-6.07-2.36-3.14 0-5.904 1.613-7.512 4.053.21.008.41.012.58.012.94 0 2.395-.114 2.395-.114.484-.028.54.684.057.74 0 0-.487.058-1.03.086l3.275 9.74 1.968-5.902-1.4-3.838c-.485-.028-.944-.085-.944-.085-.486-.03-.43-.77.056-.742 0 0 1.484.114 2.368.114.94 0 2.397-.114 2.397-.114.486-.028.543.684.058.74 0 0-.488.058-1.03.086l3.25 9.665.897-2.997c.456-1.17.684-2.137.684-2.907zm1.82-3.86c.04.286.06.593.06.924 0 .912-.17 1.938-.683 3.22l-2.746 7.94c2.672-1.558 4.47-4.454 4.47-7.77 0-1.564-.4-3.033-1.1-4.314zM12 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"></path></g></svg>				</a>
+			</li>
+			<li>
+				<a href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/#comment-form-load-service:Twitter" id="postas-twitter" class="nascar-signin-link" title="Login via Twitter">
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24"><rect x="0" fill="none" width="24" height="24"></rect><g><path fill="#1DA1F2" d="M22.23 5.924c-.736.326-1.527.547-2.357.646.847-.508 1.498-1.312 1.804-2.27-.793.47-1.67.812-2.606.996C18.325 4.498 17.258 4 16.078 4c-2.266 0-4.103 1.837-4.103 4.103 0 .322.036.635.106.935-3.41-.17-6.433-1.804-8.457-4.287-.353.607-.556 1.312-.556 2.064 0 1.424.724 2.68 1.825 3.415-.673-.022-1.305-.207-1.86-.514v.052c0 1.988 1.415 3.647 3.293 4.023-.344.095-.707.145-1.08.145-.265 0-.522-.026-.773-.074.522 1.63 2.038 2.817 3.833 2.85-1.404 1.1-3.174 1.757-5.096 1.757-.332 0-.66-.02-.98-.057 1.816 1.164 3.973 1.843 6.29 1.843 7.547 0 11.675-6.252 11.675-11.675 0-.178-.004-.355-.012-.53.802-.578 1.497-1.3 2.047-2.124z"></path></g></svg>				</a>
+			</li>
+			<li>
+				<a href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/#comment-form-load-service:Facebook" id="postas-facebook" class="nascar-signin-link" title="Login via Facebook">
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24"><rect x="0" fill="none" width="24" height="24"></rect><g><path fill="#3B5998" d="M20.007 3H3.993C3.445 3 3 3.445 3 3.993v16.013c0 .55.445.994.993.994h8.62v-6.97H10.27V11.31h2.346V9.31c0-2.325 1.42-3.59 3.494-3.59.993 0 1.847.073 2.096.106v2.43h-1.438c-1.128 0-1.346.537-1.346 1.324v1.734h2.69l-.35 2.717h-2.34V21h4.587c.548 0 .993-.445.993-.993V3.993c0-.548-.445-.993-.993-.993z"></path></g></svg>				</a>
+			</li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img decoding="async" src="./Homework4_TA5.1_files/ad516503a11cd5ca435acc9bb6523536" alt="Gravatar" width="25" class="no-grav grav-hashed" id="grav-ad516503a11cd5ca435acc9bb6523536-0" originals="25" scale="1.5">
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">E-mail <span class="required">(obbligatorio)</span> <span class="nopublish">(L'indirizzo non verrà pubblicato)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value=""></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Nome <span class="required">(obbligatorio)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value=""></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Sito web</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value=""></div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img decoding="async" src="./Homework4_TA5.1_files/ad516503a11cd5ca435acc9bb6523536" alt="Logo di WordPress.com" width="25" class="no-grav grav-hashed grav-hijack" id="grav-ad516503a11cd5ca435acc9bb6523536-1" originals="25" scale="1.5">
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="">
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="">
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="">
+						<p class="comment-form-posting-as pa-wordpress">
+			<strong></strong>
+			Stai commentando usando il tuo account WordPress.com.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( &#39;wordpress&#39; );">Chiudi&nbsp;sessione</a>&nbsp;/&nbsp;
+				<a href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/#" onclick="javascript:HighlanderComments.switchAccount();return false;">Modifica</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24"><rect x="0" fill="none" width="24" height="24"></rect><g><path fill="#0087be" d="M12.158 12.786l-2.698 7.84c.806.236 1.657.365 2.54.365 1.047 0 2.05-.18 2.986-.51-.024-.037-.046-.078-.065-.123l-2.762-7.57zM3.008 12c0 3.56 2.07 6.634 5.068 8.092L3.788 8.342c-.5 1.117-.78 2.354-.78 3.658zm15.06-.454c0-1.112-.398-1.88-.74-2.48-.456-.74-.883-1.368-.883-2.11 0-.825.627-1.595 1.51-1.595.04 0 .078.006.116.008-1.598-1.464-3.73-2.36-6.07-2.36-3.14 0-5.904 1.613-7.512 4.053.21.008.41.012.58.012.94 0 2.395-.114 2.395-.114.484-.028.54.684.057.74 0 0-.487.058-1.03.086l3.275 9.74 1.968-5.902-1.4-3.838c-.485-.028-.944-.085-.944-.085-.486-.03-.43-.77.056-.742 0 0 1.484.114 2.368.114.94 0 2.397-.114 2.397-.114.486-.028.543.684.058.74 0 0-.488.058-1.03.086l3.25 9.665.897-2.997c.456-1.17.684-2.137.684-2.907zm1.82-3.86c.04.286.06.593.06.924 0 .912-.17 1.938-.683 3.22l-2.746 7.94c2.672-1.558 4.47-4.454 4.47-7.77 0-1.564-.4-3.033-1.1-4.314zM12 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"></path></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img decoding="async" src="./Homework4_TA5.1_files/ad516503a11cd5ca435acc9bb6523536" alt="Foto Twitter" width="25" class="no-grav grav-hashed grav-hijack" id="grav-ad516503a11cd5ca435acc9bb6523536-2" originals="25" scale="1.5">
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="">
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="">
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="">
+						<p class="comment-form-posting-as pa-twitter">
+			<strong></strong>
+			Stai commentando usando il tuo account Twitter.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( &#39;twitter&#39; );">Chiudi&nbsp;sessione</a>&nbsp;/&nbsp;
+				<a href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/#" onclick="javascript:HighlanderComments.switchAccount();return false;">Modifica</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24"><rect x="0" fill="none" width="24" height="24"></rect><g><path fill="#1DA1F2" d="M22.23 5.924c-.736.326-1.527.547-2.357.646.847-.508 1.498-1.312 1.804-2.27-.793.47-1.67.812-2.606.996C18.325 4.498 17.258 4 16.078 4c-2.266 0-4.103 1.837-4.103 4.103 0 .322.036.635.106.935-3.41-.17-6.433-1.804-8.457-4.287-.353.607-.556 1.312-.556 2.064 0 1.424.724 2.68 1.825 3.415-.673-.022-1.305-.207-1.86-.514v.052c0 1.988 1.415 3.647 3.293 4.023-.344.095-.707.145-1.08.145-.265 0-.522-.026-.773-.074.522 1.63 2.038 2.817 3.833 2.85-1.404 1.1-3.174 1.757-5.096 1.757-.332 0-.66-.02-.98-.057 1.816 1.164 3.973 1.843 6.29 1.843 7.547 0 11.675-6.252 11.675-11.675 0-.178-.004-.355-.012-.53.802-.578 1.497-1.3 2.047-2.124z"></path></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img decoding="async" src="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/" alt="Foto di Facebook " width="25" class="no-grav">
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="">
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="">
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="">
+						<p class="comment-form-posting-as pa-facebook">
+			<strong></strong>
+			Stai commentando usando il tuo account Facebook.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( &#39;facebook&#39; );">Chiudi&nbsp;sessione</a>&nbsp;/&nbsp;
+				<a href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/#" onclick="javascript:HighlanderComments.switchAccount();return false;">Modifica</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24"><rect x="0" fill="none" width="24" height="24"></rect><g><path fill="#3B5998" d="M20.007 3H3.993C3.445 3 3 3.445 3 3.993v16.013c0 .55.445.994.993.994h8.62v-6.97H10.27V11.31h2.346V9.31c0-2.325 1.42-3.59 3.494-3.59.993 0 1.847.073 2.096.106v2.43h-1.438c-1.128 0-1.346.537-1.346 1.324v1.734h2.69l-.35 2.717h-2.34V21h4.587c.548 0 .993-.445.993-.993V3.993c0-.548-.445-.993-.993-.993z"></path></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Annulla</a></div>
+		<p>Connessione a %s…</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function () {
+
+	function hide( sel ) {
+		var el = document.querySelector( sel );
+		if ( el ) {
+			el.style.setProperty( 'display', 'none' );
+		}
+	}
+
+	function show( sel ) {
+		var el = document.querySelector( sel );
+		if ( el ) {
+			el.style.removeProperty( 'display' );
+		}
+	}
+
+	var input = document.createElement( 'input' );
+	var comment = document.querySelector( '#comment' );
+
+	if ( input && comment && 'placeholder' in input ) {
+		var label = document.querySelector( '.comment-textarea label' );
+		if ( label ) {
+			var text = label.textContent;
+			label.parentNode.removeChild( label );
+			comment.setAttribute( 'placeholder', text );
+		}
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	hide( '#comment-form-identity' );
+	hide( '#comment-form-subscribe' );
+	hide( '#commentform .form-submit' );
+
+	if ( comment ) {
+		comment.style.height = '10px';
+
+		var handler = function () {
+			comment.style.height = HighlanderComments.initialHeight + 'px';
+			show( '#comment-form-identity' );
+			show( '#comment-form-subscribe' );
+			show( '#commentform .form-submit' );
+			HighlanderComments.resizeCallback();
+
+			comment.removeEventListener( 'focus', handler );
+		};
+
+		comment.addEventListener( 'focus', handler );
+	}
+}
+
+if ( document.readyState !== 'loading' ) {
+	highlander_expando_javascript();
+} else {
+	document.addEventListener( 'DOMContentLoaded', highlander_expando_javascript );
+}
+
+</script>
+
+<div id="comment-form-subscribe" style="display: none;">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notificami nuovi commenti via e-mail</label></p><p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;"> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog" style="display: inline;">Mandami una notifica per nuovi articoli via e-mail</label></p></div>
+
+
+
+
+
+<p class="form-submit wp-block-button" style="display: none;"><input name="submit" type="submit" id="comment-submit" class="submit button wp-block-button__link wp-element-button" value="Pubblica un commento"> <input type="hidden" name="comment_post_ID" value="260" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="8f93b62362"></p>
+<input type="hidden" name="genseq" value="1669658221">
+<p style="display: none !important;"><label>Δ<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="1669658222504"><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	<div style="clear: both"></div></div>
+	</div>
+	
+
+</main>
+
+
+<footer class="site-footer-container wp-block-template-part">
+<div class="wp-block-group is-layout-constrained">
+<div class="wp-block-group is-layout-flow" style="padding-top:80px;padding-bottom:30px;">
+<p class="has-text-align-center has-primary-color has-text-color">Proudly Powered by <a href="https://wordpress.org/" rel="nofollow">WordPress</a></p>
+</div>
+</div>
+</footer>
+</div>
+<!-- wpcom_wp_footer -->
+
+		<style id="skip-link-styles">
+		.skip-link.screen-reader-text {
+			border: 0;
+			clip: rect(1px,1px,1px,1px);
+			clip-path: inset(50%);
+			height: 1px;
+			margin: -1px;
+			overflow: hidden;
+			padding: 0;
+			position: absolute !important;
+			width: 1px;
+			word-wrap: normal !important;
+		}
+
+		.skip-link.screen-reader-text:focus {
+			background-color: #eee;
+			clip: auto !important;
+			clip-path: none;
+			color: #444;
+			display: block;
+			font-size: 1em;
+			height: auto;
+			left: 5px;
+			line-height: normal;
+			padding: 15px 23px 14px;
+			text-decoration: none;
+			top: 5px;
+			width: auto;
+			z-index: 100000;
+		}
+	</style>
+		<script>
+	( function() {
+		var skipLinkTarget = document.querySelector( 'main' ),
+			sibling,
+			skipLinkTargetID,
+			skipLink;
+
+		// Early exit if a skip-link target can't be located.
+		if ( ! skipLinkTarget ) {
+			return;
+		}
+
+		// Get the site wrapper.
+		// The skip-link will be injected in the beginning of it.
+		sibling = document.querySelector( '.wp-site-blocks' );
+
+		// Early exit if the root element was not found.
+		if ( ! sibling ) {
+			return;
+		}
+
+		// Get the skip-link target's ID, and generate one if it doesn't exist.
+		skipLinkTargetID = skipLinkTarget.id;
+		if ( ! skipLinkTargetID ) {
+			skipLinkTargetID = 'wp--skip-link--target';
+			skipLinkTarget.id = skipLinkTargetID;
+		}
+
+		// Create the skip link.
+		skipLink = document.createElement( 'a' );
+		skipLink.classList.add( 'skip-link', 'screen-reader-text' );
+		skipLink.href = '#' + skipLinkTargetID;
+		skipLink.innerHTML = 'Vai al contenuto';
+
+		// Inject the skip link.
+		sibling.parentElement.insertBefore( skipLink, sibling );
+	}() );
+	</script>
+	<script src="./Homework4_TA5.1_files/gprofiles.js.download" id="grofiles-cards-js"></script>
+<script id="wpgroho-js-extra">
+var WPGroHo = {"my_hash":""};
+</script>
+<script crossorigin="anonymous" type="text/javascript" src="./Homework4_TA5.1_files/wpgroho.js.download"></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-d7fd7d853553c1fc389f80f8481be5ba">
+	</div>
+	</div>
+<script id="highlander-comments-js-extra">
+var HighlanderComments = {"loggingInText":"Accesso in corso...","submittingText":"Pubblicazione del commento...","postCommentText":"Pubblica un commento","connectingToText":"Connessione a %s...","commentingAsText":"%1$s: Stai commentando usando il tuo account %2$s.","logoutText":"Esci","loginText":"Accedi","connectURL":"https:\/\/statisticsfall22.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/statisticsfall22.wordpress.com\/wp-login.php?action=logout&_wpnonce=43ac189f46","homeURL":"https:\/\/statisticsfall22.wordpress.com\/","postID":"260","gravDefault":"identicon","enterACommentError":"Per favore inserisci un commento","enterEmailError":"Inserisci il tuo indirizzo e-mail qui","invalidEmailError":"Indirizzo e-mail non valido","enterAuthorError":"Inserisci il tuo nome qui","gravatarFromEmail":"Questa immagine sar\u00e0 mostrata ogni volta che lasci un commento. Clicca per personalizzarla.","logInToExternalAccount":"Accedi per utilizzare i dati di uno di questi account.","change":"Modifica","changeAccount":"Cambia account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+</script>
+<script crossorigin="anonymous" type="text/javascript" src="./Homework4_TA5.1_files/saved_resource(7)"></script>
+		<!-- CCPA [start] -->
+		<script type="text/javascript">
+			( function () {
+
+				var setupPrivacy = function() {
+
+					// Minimal Mozilla Cookie library
+					// https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework
+					var cookieLib = window.cookieLib = {getItem:function(e){return e&&decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},setItem:function(e,o,n,t,r,i){if(!e||/^(?:expires|max\-age|path|domain|secure)$/i.test(e))return!1;var c="";if(n)switch(n.constructor){case Number:c=n===1/0?"; expires=Fri, 31 Dec 9999 23:59:59 GMT":"; max-age="+n;break;case String:c="; expires="+n;break;case Date:c="; expires="+n.toUTCString()}return"rootDomain"!==r&&".rootDomain"!==r||(r=(".rootDomain"===r?".":"")+document.location.hostname.split(".").slice(-2).join(".")),document.cookie=encodeURIComponent(e)+"="+encodeURIComponent(o)+c+(r?"; domain="+r:"")+(t?"; path="+t:"")+(i?"; secure":""),!0}};
+
+					// Implement IAB USP API.
+					window.__uspapi = function( command, version, callback ) {
+
+						// Validate callback.
+						if ( typeof callback !== 'function' ) {
+							return;
+						}
+
+						// Validate the given command.
+						if ( command !== 'getUSPData' || version !== 1 ) {
+							callback( null, false );
+							return;
+						}
+
+						// Check for GPC. If set, override any stored cookie.
+						if ( navigator.globalPrivacyControl ) {
+							callback( { version: 1, uspString: '1YYN' }, true );
+							return;
+						}
+
+						// Check for cookie.
+						var consent = cookieLib.getItem( 'usprivacy' );
+
+						// Invalid cookie.
+						if ( null === consent ) {
+							callback( null, false );
+							return;
+						}
+
+						// Everything checks out. Fire the provided callback with the consent data.
+						callback( { version: 1, uspString: consent }, true );
+					};
+
+					// Initialization.
+					document.addEventListener( 'DOMContentLoaded', function() {
+
+						// Internal functions.
+						var setDefaultOptInCookie = function() {
+							var value = '1YNN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 365 * 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultOptOutCookie = function() {
+							var value = '1YYN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultNotApplicableCookie = function() {
+							var value = '1---';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setCcpaAppliesCookie = function( applies ) {
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'ccpa_applies', applies, 24 * 60 * 60, '/', domain );
+						}
+
+						var maybeCallDoNotSellCallback = function() {
+							if ( 'function' === typeof window.doNotSellCallback ) {
+								return window.doNotSellCallback();
+							}
+
+							return false;
+						}
+
+						// Look for usprivacy cookie first.
+						var usprivacyCookie = cookieLib.getItem( 'usprivacy' );
+
+						// Found a usprivacy cookie.
+						if ( null !== usprivacyCookie ) {
+
+							// If the cookie indicates that CCPA does not apply, then bail.
+							if ( '1---' === usprivacyCookie ) {
+								return;
+							}
+
+							// CCPA applies, so call our callback to add Do Not Sell link to the page.
+							maybeCallDoNotSellCallback();
+
+							// We're all done, no more processing needed.
+							return;
+						}
+
+						// We don't have a usprivacy cookie, so check to see if we have a CCPA applies cookie.
+						var ccpaCookie = cookieLib.getItem( 'ccpa_applies' );
+
+						// No CCPA applies cookie found, so we'll need to geolocate if this visitor is from California.
+						// This needs to happen client side because we do not have region geo data in our $SERVER headers,
+						// only country data -- therefore we can't vary cache on the region.
+						if ( null === ccpaCookie ) {
+
+							var request = new XMLHttpRequest();
+							request.open( 'GET', 'https://public-api.wordpress.com/geo/', true );
+
+							request.onreadystatechange = function () {
+								if ( 4 === this.readyState ) {
+									if ( 200 === this.status ) {
+
+										// Got a geo response. Parse out the region data.
+										var data = JSON.parse( this.response );
+										var region      = data.region ? data.region.toLowerCase() : '';
+										var ccpa_applies = ['california', 'colorado', 'connecticut', 'utah', 'virginia'].indexOf( region ) > -1;
+										// Set CCPA applies cookie. This keeps us from having to make a geo request too frequently.
+										setCcpaAppliesCookie( ccpa_applies );
+
+										// Check if CCPA applies to set the proper usprivacy cookie.
+										if ( ccpa_applies ) {
+											if ( maybeCallDoNotSellCallback() ) {
+												// Do Not Sell link added, so set default opt-in.
+												setDefaultOptInCookie();
+											} else {
+												// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+												setDefaultOptOutCookie();
+											}
+										} else {
+											// CCPA does not apply.
+											setDefaultNotApplicableCookie();
+										}
+									} else {
+										// Could not geo, so let's assume for now that CCPA applies to be safe.
+										setCcpaAppliesCookie( true );
+										if ( maybeCallDoNotSellCallback() ) {
+											// Do Not Sell link added, so set default opt-in.
+											setDefaultOptInCookie();
+										} else {
+											// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+											setDefaultOptOutCookie();
+										}
+									}
+								}
+							};
+
+							// Send the geo request.
+							request.send();
+						} else {
+							// We found a CCPA applies cookie.
+							if ( ccpaCookie === 'true' ) {
+								if ( maybeCallDoNotSellCallback() ) {
+									// Do Not Sell link added, so set default opt-in.
+									setDefaultOptInCookie();
+								} else {
+									// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+									setDefaultOptOutCookie();
+								}
+							} else {
+								// CCPA does not apply.
+								setDefaultNotApplicableCookie();
+							}
+						}
+					} );
+				};
+
+				// Kickoff initialization.
+				if ( window.defQueue && defQueue.isLOHP && defQueue.isLOHP === 2020 ) {
+					defQueue.items.push( setupPrivacy );
+				} else {
+					setupPrivacy();
+				}
+
+			} )();
+		</script>
+
+		<!-- CCPA [end] -->
+		
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/statisticsfall22.wordpress.com\/2022\/10\/26\/researches-about-theory-relevant-to-applications-h4\/":260};
+	</script>
+					<div id="actionbar" class="actnbr-pub-geologist-slate actnbr-has-follow">
+		<ul>
+								<li class="actnbr-btn actnbr-hidden">
+								<a class="actnbr-action actnbr-actn-follow " href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"></path></g></svg><span>Segui</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"></path></g></svg><span>Siti che segui</span>
+		</a>
+							<div class="actnbr-popover tip tip-top-left actnbr-notice" id="follow-bubble">
+							<div class="tip-arrow"></div>
+							<div class="tip-inner actnbr-follow-bubble">
+															<ul>
+											<li class="actnbr-sitename actnbr-hidden">
+			<a href="https://statisticsfall22.wordpress.com/">
+				<img alt="" src="./Homework4_TA5.1_files/cropped-cropped-432548.png" class="avatar avatar-50" height="50" width="50" srcset="https://statisticsfall22.files.wordpress.com/2022/10/cropped-cropped-432548.png?w=50&amp;zoom=2 1.5x" scale="1.5">				1957545			</a>
+		</li>
+										<form method="post" action="https://subscribe.wordpress.com/" accept-charset="utf-8" style="display: none;">
+																				<div>
+										<input type="email" name="email" placeholder="Inserisci il tuo indirizzo e-mail" class="actnbr-email-field" aria-label="Inserisci il tuo indirizzo e-mail">
+										</div>
+										<input type="hidden" name="action" value="subscribe">
+										<input type="hidden" name="blog_id" value="211089482">
+										<input type="hidden" name="source" value="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/">
+										<input type="hidden" name="sub-type" value="actionbar-follow">
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="87cb2735df">										<div class="actnbr-button-wrap">
+											<button type="submit" value="Registrami">
+												Registrami											</button>
+										</div>
+									</form>
+									<li class="actnbr-login-nudge actnbr-hidden">
+										<div>
+											Hai già un account WordPress.com? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fstatisticsfall22.wordpress.com%2F2022%2F10%2F26%2Fresearches-about-theory-relevant-to-applications-h4%2F&amp;signup_flow=account">Accedi ora.</a>										</div>
+									</li>
+								</ul>
+															</div>
+						</div>
+					</li>
+							<li class="actnbr-ellipsis actnbr-hidden">
+				<svg class="gridicon gridicons-ellipsis" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"></path></g></svg>				<div class="actnbr-popover tip tip-top-left actnbr-more">
+					<div class="tip-arrow"></div>
+					<div class="tip-inner">
+						<ul>
+									<li class="actnbr-sitename actnbr-hidden">
+			<a href="https://statisticsfall22.wordpress.com/">
+				<img alt="" src="./Homework4_TA5.1_files/cropped-cropped-432548.png" class="avatar avatar-50" height="50" width="50" srcset="https://statisticsfall22.files.wordpress.com/2022/10/cropped-cropped-432548.png?w=50&amp;zoom=2 1.5x" scale="1.5">				1957545			</a>
+		</li>
+								<li class="actnbr-folded-customize actnbr-hidden">
+								<a href="https://wordpress.com/site-editor/statisticsfall22.wordpress.com">
+									<svg class="gridicon gridicons-customize" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M2 6c0-1.505.78-3.08 2-4 0 .845.69 2 2 2 1.657 0 3 1.343 3 3 0 .386-.08.752-.212 1.09.74.594 1.476 1.19 2.19 1.81L8.9 11.98c-.62-.716-1.214-1.454-1.807-2.192C6.753 9.92 6.387 10 6 10c-2.21 0-4-1.79-4-4zm12.152 6.848l1.34-1.34c.607.304 1.283.492 2.008.492 2.485 0 4.5-2.015 4.5-4.5 0-.725-.188-1.4-.493-2.007L18 9l-2-2 3.507-3.507C18.9 3.188 18.225 3 17.5 3 15.015 3 13 5.015 13 7.5c0 .725.188 1.4.493 2.007L3 20l2 2 6.848-6.848c1.885 1.928 3.874 3.753 5.977 5.45l1.425 1.148 1.5-1.5-1.15-1.425c-1.695-2.103-3.52-4.092-5.448-5.977z"></path></g></svg>									<span>Modifica sito</span>
+								</a>
+							</li>
+																<li class="actnbr-folded-follow actnbr-hidden">
+												<a class="actnbr-action actnbr-actn-follow " href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"></path></g></svg><span>Segui</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"></path></g></svg><span>Siti che segui</span>
+		</a>
+										</li>
+																	<li class="actnbr-signup actnbr-hidden"><a href="https://wordpress.com/start/">Registrati</a></li>
+									<li class="actnbr-login actnbr-hidden"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fstatisticsfall22.wordpress.com%2F2022%2F10%2F26%2Fresearches-about-theory-relevant-to-applications-h4%2F&amp;signup_flow=account">Accedi</a></li>
+																	<li class="actnbr-shortlink actnbr-hidden"><a href="https://wp.me/pehI14-4c">Copia shortlink</a></li>
+																	<li class="flb-report actnbr-hidden"><a href="http://en.wordpress.com/abuse/">Segnala questo contenuto</a></li>
+																	<li class="actnbr-reader actnbr-hidden">
+										<a href="https://wordpress.com/read/blogs/211089482/posts/260">
+											View post in Reader										</a>
+									</li>
+																	<li class="actnbr-subs actnbr-hidden">
+										<a href="https://subscribe.wordpress.com/">Gestisci gli abbonamenti</a>
+									</li>
+																		<li class="actnbr-fold actnbr-hidden"><a href="https://statisticsfall22.wordpress.com/2022/10/26/researches-about-theory-relevant-to-applications-h4/">Riduci la barra</a></li>
+															</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+<script>
+window.addEventListener( "load", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?v=20210915";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20220329";
+	script.defer = true;
+	document.body.appendChild( script );
+} );
+</script>
+
+	<script id="comment-like-js-extra">
+var comment_like_text = {"loading":"Caricamento...","swipeUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/comment-likes\/js\/lib\/swipe.js?ver=20131008"};
+</script>
+<script id="sharing-js-js-extra">
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+</script>
+<script crossorigin="anonymous" type="text/javascript" src="./Homework4_TA5.1_files/saved_resource(8)"></script>
+<script type="text/javascript">
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<iframe src="./Homework4_TA5.1_files/master.html" scrolling="no" id="likes-master" name="likes-master" style="display:none;"></iframe>
+	<div id="likes-other-gravatars" style="display: none;">
+		<div class="likes-text">
+			<span>%d</span> blogger hanno fatto clic su Mi Piace per questo: 		</div>
+		<ul class="wpl-avatars sd-like-gravatars"></ul>
+	</div>
+
+		<script src="./Homework4_TA5.1_files/w.js.download" defer=""></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'211089482','blog_tz':'1','user_lang':'it','blog_lang':'it','user_id':'0'}]);
+_stq.push(['view', {'blog':'211089482','v':'wpcom','tz':'1','user_id':'0','post':'260','subd':'statisticsfall22'}]);
+_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdTdvUG14Q2VDQTR4LlUsLi82dU1mai9BMlJ8dHMuX0lQd3RiLSw1WVhzVE9fW3lmMExZTWR0R1N5OVp+LHBueWExWUlPM1gsTHRYZCZ4Lm1Ga3NpaF9JQz1oTH5yaFRkXXcrbC45YXF5TklSQWJzNCtCXStwaklHLl0sR1FiVWUuK2gzektFZy42c0c4YWl6bEUsMi5zRkxBTGhGen52K2J8RUxDeHlnbHMmcFdjVm1aX3AwcTYlTFBCRysxSGYmRTgwL3BRaVtFLHJVJkxjMmlYT0pbdlFfNitveHhHUTVUS04rMmNpdDBuRzhIT2JvbSxXNl8wanJZL0VKLC5mOHxUSHM='}]);
+_stq.push([ 'clickTrackerInit', '211089482', '260' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<script defer="" id="bilmur" data-customproperties="{&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/geologist-slate&quot;}" data-provider="wordpress.com" data-service="simple" src="./Homework4_TA5.1_files/bilmur.min.js.download"></script><script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+
+<style>img#wpstats {
+			position: absolute !important;
+			clip: rect(0, 0, 0, 0);
+			padding: 0 !important;
+			border: 0 !important;
+			height: 0 !important;
+			width: 0 !important;
+			overflow: hidden;
+		}</style><img src="./Homework4_TA5.1_files/g.gif" alt="" id="wpstats"><iframe name="__tcfapiLocator" style="display: none;" src="./Homework4_TA5.1_files/saved_resource(9).html"></iframe><div class="comment-likes-overlay" style="display: none;"></div><div class="bottom-sticky__ad-container bottom-sticky__ad-container_hidden" id="bottom-sticky__ad-container" style="">
+            <div class="bottom-sticky__ad-close-btn"></div>
+            <div id="bottom-sticky-ad" style="margin:0 auto;width:728px;"></div>
+        </div><style>.bottom-sticky__ad-container {
+    background: #f1f1f1;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transform: translate(0,0);
+    transition: transform .2s ease-in-out;
+    user-select: none;
+    padding-top: 10px;
+    z-index: 49999;         /* AUTOMATTIC-2205 - because cookie consent banner has 50000 z-index */
+}
+.bottom-sticky__ad-container_hidden {
+    visibility: hidden;
+    transform: translate(0,1000px);
+}
+.bottom-sticky__ad-close-btn {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    box-sizing: content-box;
+    border: 2px solid #9d9d9d;
+    right: 2px;
+    top: -14px;
+    border-radius: 50%;
+    background-color: #fff;
+    cursor: pointer;
+    overflow: hidden;
+    background-size: 12px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("data:image/svg+xml,%3Csvg width='24' height='24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke-width='4' stroke='%239d9d9d' d='M0 0l24 24M0 24L24 0'/%3E%3C/svg%3E");
+}
+.bottom-sticky__ad-container .adtags-button {
+    color: #000;
+}</style><style>.ata-controls__complain-btn:hover,
+.ata-controls__privacy-btn:hover {
+    color: #666666 !important;
+}
+.ata-controls__complain-btn:active,
+.ata-controls__privacy-btn:active {
+    color: #5ac8fa !important;
+}
+.ata-controls__complain-btn_clicked,
+.ata-controls__complain-btn_clicked:hover,
+.ata-controls__complain-btn_clicked:active {
+    color: #000 !important;
+    cursor: default !important;
+}
+.ata-frame-wrapper {
+    overflow: hidden;
+    position: relative;
+}
+</style><script src="./Homework4_TA5.1_files/actionbar.js.download" defer=""></script><script>window._stq = window._stq || [];window._stq.push( [ 'extra', { x_wordads_outbrain: 'widget_render_ar_1', }, ] );</script><script src="./Homework4_TA5.1_files/outbrain.js.download"></script></body></html>
