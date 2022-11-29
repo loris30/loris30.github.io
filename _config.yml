@@ -22,14 +22,17 @@ author: Lorenzo Marinelli
 navbar-links:
   #About Me: "aboutme"
   Homeworks:
-    - Homework 1: "https://beautifuljekyll.com"
-    - Homework 2: "https://www.markdowntutorial.com/"
-    - Homework 3: "https://www.markdowntutorial.com/"
-    - Homework 4: "https://www.markdowntutorial.com/"
-    - Homework 5: "https://www.markdowntutorial.com/"
-    - Homework 6: "https://www.markdowntutorial.com/"
-    - Homework 7: "https://www.markdowntutorial.com/"
-    - Homework 8: "https://www.markdowntutorial.com/"
+    - Homework 1: "https://github.com/loris30/StatisticsHomework/tree/main/Homework1Csharp"
+    - Homework 2.1: "https://github.com/loris30/StatisticsHomework/tree/main/Homework2.1Csharp"
+    - Homework 2.2: "https://github.com/loris30/StatisticsHomework/tree/main/Homework2.2Csharp"
+    - Homework 2.3: "https://github.com/loris30/StatisticsHomework/tree/main/Homework2.3VisualBasiccorrect"
+    
+    - Homework 3: "https://github.com/loris30/StatisticsHomework/tree/main/Homewrok3Csharp"
+    - Homework 4: "https:"
+    - Homework 5: "https"
+    - Homework 6: "https"
+    - Homework 7: "https"
+    - Homework 8: "https"
   #Author's home: "https://deanattali.com"
 
 ################
